@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .QUEST one-word domains still available to buy.
 
-This dataset contains 4,277 .QUEST one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,271 .QUEST one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.QUEST one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=quest-oneword-domains&utm_content=description.top) (4,278) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,16 +13,16 @@ If you want to search & filters the complete database of [.QUEST one word domain
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/quest-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/quest-oneword-domains/blob/main/quest.csv"><b>⬇️ CSV (4.28K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/quest-oneword-domains/blob/main/quest.json"><b>⬇️ JSON (4.28K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/quest-oneword-domains/blob/main/quest.csv"><b>⬇️ CSV (4.27K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/quest-oneword-domains/blob/main/quest.json"><b>⬇️ JSON (4.27K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=quest-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.28K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.quest        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.quest      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.quest        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.quest      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.quest  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.quest      | available | 43       | 2%     | 5      |           |         |         |
 | abashed.quest    | available | 60       | 2%     | 7      |           |         |         |
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.QUEST one word domain
 | abatic.quest     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.quest    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.quest   | available | 50       | 1%     | 8      |           |         |         |
-| abc.quest        | available | 102      | 41%    | 3      |           |         |         |
+| abc.quest        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.quest  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.quest  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.quest | available | 56       | 1%     | 10     |           |         |         |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.QUEST one word domain
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/quest-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/quest-oneword-domains/blob/main/quest.csv"><b>⬇️ CSV (4.28K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/quest-oneword-domains/blob/main/quest.json"><b>⬇️ JSON (4.28K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/quest-oneword-domains/blob/main/quest.csv"><b>⬇️ CSV (4.27K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/quest-oneword-domains/blob/main/quest.json"><b>⬇️ JSON (4.27K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=quest-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.28K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
