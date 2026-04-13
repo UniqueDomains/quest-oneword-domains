@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C608%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C609%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C604%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .quest one-word domains from Uniqu
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,608 rows · **Live catalog:** 8,604 domains
+**Public extract:** 8,609 rows · **Live catalog:** 8,604 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/quest`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .QUEST one-word domain
 
 ### Files
 
-- `quest.csv` — public CSV extract (8,608 rows)
-- `quest.json` — public JSON extract (8,608 rows)
+- `quest.csv` — public CSV extract (8,609 rows)
+- `quest.json` — public JSON extract (8,609 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| seventeen.quest  | available | $1.99     | $20.99        | 84             | 62     | 9      | name.com                                     |
-| kick.quest       | resell    | —         | —             | 98             | 80     | 4      | Spaceship, Inc.                              |
-| converse.quest   | premium   | $2,500    | $2,500        | 64             | 73     | 8      | name.com                                     |
-| athletics.quest  | available | $19.98    | —             | 69             | 52     | 9      | namecheap                                    |
-| loop.quest       | resell    | —         | —             | 72             | 77     | 4      | Spaceship, Inc.                              |
-| nationwide.quest | premium   | $2,500    | $2,500        | 76             | 66     | 10     | name.com                                     |
-| content.quest    | available | $1.99     | $20.99        | 138            | 39     | 7      | name.com                                     |
-| prompt.quest     | resell    | —         | —             | 114            | 68     | 6      | Spaceship, Inc.                              |
-| easy.quest       | premium   | $812.50   | $20.99        | 128            | 62     | 4      | name.com                                     |
-| gather.quest     | available | $1.99     | $20.99        | 96             | 38     | 6      | name.com                                     |
-| flow.quest       | resell    | —         | —             | 96             | 67     | 4      | Spaceship, Inc.                              |
-| cloud.quest      | premium   | $2,600    | $2,600        | 70             | 59     | 5      | namecheap                                    |
-| conscious.quest  | available | $1.99     | $20.99        | 89             | 38     | 9      | name.com                                     |
-| flash.quest      | resell    | —         | —             | 64             | 67     | 5      | Spaceship, Inc.                              |
-| ace.quest        | premium   | $812.50   | $20.99        | 88             | 57     | 3      | name.com                                     |
-| able.quest       | available | $1.99     | $20.99        | 80             | 34     | 4      | name.com                                     |
-| context.quest    | resell    | —         | —             | 108            | 59     | 7      | Sav.com, LLC                                 |
-| live.quest       | premium   | $812.50   | $812.50       | 108            | 56     | 4      | name.com                                     |
-| chill.quest      | available | $1.99     | $20.99        | 72             | 33     | 5      | name.com                                     |
-| zero.quest       | resell    | —         | —             | 112            | 53     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| seventeen.quest  | available | $1.99     | $20.99        | 84             | 62     | 9      | name.com        |
+| crisp.quest      | resell    | $1.99     | $20.99        | 68             | 27     | 5      | Go Daddy, LLC   |
+| converse.quest   | premium   | $2,500    | $2,500        | 64             | 73     | 8      | name.com        |
+| athletics.quest  | available | $19.98    | —             | 69             | 52     | 9      | namecheap       |
+| kick.quest       | resell    | —         | —             | 98             | 80     | 4      | Spaceship, Inc. |
+| nationwide.quest | premium   | $2,500    | $2,500        | 76             | 66     | 10     | name.com        |
+| content.quest    | available | $1.99     | $20.99        | 138            | 39     | 7      | name.com        |
+| loop.quest       | resell    | —         | —             | 72             | 77     | 4      | Spaceship, Inc. |
+| easy.quest       | premium   | $812.50   | $20.99        | 128            | 62     | 4      | name.com        |
+| gather.quest     | available | $1.99     | $20.99        | 96             | 38     | 6      | name.com        |
+| prompt.quest     | resell    | —         | —             | 114            | 68     | 6      | Spaceship, Inc. |
+| cloud.quest      | premium   | $2,600    | $2,600        | 70             | 59     | 5      | namecheap       |
+| conscious.quest  | available | $1.99     | $20.99        | 89             | 38     | 9      | name.com        |
+| flow.quest       | resell    | —         | —             | 96             | 67     | 4      | Spaceship, Inc. |
+| ace.quest        | premium   | $812.50   | $20.99        | 88             | 57     | 3      | name.com        |
+| able.quest       | available | $1.99     | $20.99        | 80             | 34     | 4      | name.com        |
+| flash.quest      | resell    | —         | —             | 64             | 67     | 5      | Spaceship, Inc. |
+| live.quest       | premium   | $812.50   | $812.50       | 108            | 56     | 4      | name.com        |
+| chill.quest      | available | $1.99     | $20.99        | 72             | 33     | 5      | name.com        |
+| context.quest    | resell    | —         | —             | 108            | 59     | 7      | Sav.com, LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,608-row public sample | 8,604 live domains                               |
+| 8,609-row public sample | 8,604 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
