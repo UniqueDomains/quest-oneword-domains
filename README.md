@@ -1,10 +1,10 @@
-# Available .QUEST One-Word Domains (11,058)
+# Available .QUEST One-Word Domains (11,510)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C058%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C510%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .quest one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,058 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,510 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,058 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,510 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/quest`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| RedSox.quest        | available | $19.98    | —             | 72             | 60     | 7      | namecheap       |
-| winners.quest       | resell    | —         | —             | 60             | 81     | 7      | Go Daddy, LLC   |
-| insight.quest       | premium   | $2,500    | —             | 76             | 69     | 8      | name.com        |
 | keepthechange.quest | available | $1.99     | —             | 46             | 59     | 15     | name.com        |
 | whynot.quest        | resell    | —         | —             | 74             | 39     | 7      | Spaceship, Inc. |
-| online.quest        | premium   | $2,500    | —             | 70             | 62     | 7      | name.com        |
+| insight.quest       | premium   | $2,500    | —             | 76             | 69     | 8      | name.com        |
 | etc.quest           | available | $1.99     | —             | 58             | 34     | 3      | name.com        |
-| WiFi.quest          | resell    | —         | —             | 83             | 37     | 5      | Spaceship, Inc. |
-| travelers.quest     | premium   | $2,500    | —             | 58             | 61     | 9      | name.com        |
+| unify.quest         | resell    | —         | —             | 72             | 38     | 5      | Porkbun, LLC    |
+| online.quest        | premium   | $2,500    | —             | 70             | 62     | 7      | name.com        |
 | courses.quest       | available | $1.99     | —             | 82             | 24     | 7      | name.com        |
-| invoice.quest       | resell    | —         | —             | 72             | 33     | 8      | Dynadot LLC     |
+| WiFi.quest          | resell    | —         | —             | 83             | 37     | 5      | Spaceship, Inc. |
 | Ryan.quest          | premium   | $2,800    | $2,800        | 60             | 44     | 4      | namecheap       |
 | inhouse.quest       | available | $1.99     | —             | 70             | 23     | 8      | name.com        |
-| bits.quest          | resell    | —         | —             | 71             | 32     | 4      | Dynadot LLC     |
+| invoice.quest       | resell    | —         | —             | 72             | 33     | 8      | Dynadot LLC     |
 | jobs.quest          | premium   | $812.50   | —             | 79             | 42     | 4      | name.com        |
 | makeit.quest        | available | $1.99     | —             | 82             | 22     | 7      | name.com        |
-| letsgo.quest        | resell    | —         | —             | 57             | 31     | 7      | Namecheap       |
+| bits.quest          | resell    | —         | —             | 71             | 32     | 4      | Dynadot LLC     |
 | maps.quest          | premium   | $812.50   | —             | 56             | 31     | 4      | name.com        |
-| CapeCod.quest       | available | $19.98    | —             | 78             | 22     | 8      | namecheap       |
-| steel.quest         | resell    | —         | —             | 62             | 30     | 5      | Dynadot LLC     |
+| webshop.quest       | available | $1.99     | —             | 76             | 22     | 8      | name.com        |
+| letsgo.quest        | resell    | —         | —             | 57             | 31     | 7      | Namecheap       |
+| quotes.quest        | premium   | $812.50   | —             | 58             | 29     | 6      | name.com        |
+| bubbles.quest       | available | $1.99     | —             | 72             | 21     | 7      | name.com        |
+| slots.quest         | resell    | —         | —             | 49             | 31     | 5      | Go Daddy, LLC   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,058 live domains                              |
+| 1,000-row public sample | 11,510 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .QUEST One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .QUEST One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
