@@ -461,7 +461,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 27f78d58-7e78-4d01-a14f-9889252065ea,Itellalie.quest,available,19.98,,58,1,12,namecheap,,
 280b9258-b7d2-44a4-bc74-5d89d35c3610,barbecuesauce.quest,available,1.99,,76,2,14,name.com,,
 28255e38-3741-4715-9f55-786e210b00bb,honeymooning.quest,available,1.99,,82,2,12,name.com,,
-285094a4-298b-4f01-a282-12b970e17d3e,steel.quest,resell,,,62,30,5,Dynadot LLC,24/06/2025 20:12,24/06/2026 23:59
+285094a4-298b-4f01-a282-12b970e17d3e,steel.quest,resell,,,62,31,5,Dynadot LLC,24/06/2025 20:12,24/06/2026 23:59
 2878dcdc-1c2d-470c-a477-41e33c77c0d7,determines.quest,available,1.99,,58,1,10,name.com,,
 28ab2204-b068-4752-b207-ebce0cebb837,pearls.quest,available,1.99,,64,12,6,name.com,,
 28b1b26e-36ec-4f58-9648-d9b52c92ac60,flipthescript.quest,available,1.99,,72,6,15,name.com,,
@@ -492,6 +492,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2b5c2851-47d0-49c6-b3fd-5440d840fa0f,goforbroke.quest,available,1.99,,72,2,12,name.com,,
 2b611a48-e688-4d03-9be8-82c70b99673b,parishes.quest,available,1.99,,51,3,8,name.com,,
 2b880507-b825-407d-a60a-ac352238a8d8,railways.quest,available,1.99,,51,6,8,name.com,,
+2bbb138f-d392-4779-9e4d-45cf1e8ba160,journey.quest,premium,11712.34,,72,34,7,InterNetX GmbH,02/03/2021 14:00,02/03/2027 23:59
 2bc1fb6d-aa09-49e8-8049-b48a49fc366f,constraints.quest,available,1.99,,44,2,11,name.com,,
 2bfe97a4-72e3-4ffc-81cf-bb719d524325,dogsit.quest,available,1.99,,96,2,6,name.com,,
 2c19a13b-ca34-4174-9bb4-33d5bf36725a,nosmoking.quest,available,1.99,,54,5,10,name.com,,
@@ -808,6 +809,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 47317067-b2ec-4410-8eee-5f0e9971e5ed,proceeded.quest,available,1.99,,60,2,9,name.com,,
 476f762b-4d65-42d9-8f4f-978c41794e3b,redevelopment.quest,available,1.99,,62,4,13,name.com,,
 478e6aa4-d54c-40bc-a5c4-b3523b644830,steroids.quest,available,1.99,,50,10,8,name.com,,
+47c3b8e0-475a-45dc-87de-c92404dfe01e,stage.quest,premium,,,68,43,5,,,
 47d13a7f-3297-4789-be69-d13ae85b22c0,riders.quest,available,1.99,,60,14,6,name.com,,
 47dbbb21-bda9-4238-b9a3-063d369f5dba,soups.quest,available,1.99,,56,6,5,name.com,,
 47e15d45-99cf-4073-9cab-f71534233073,dogstooth.quest,available,1.99,,76,1,9,name.com,,
@@ -997,5 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 556157bf-79e0-424d-bec7-54c34013b8d3,potatochips.quest,available,1.99,,54,5,12,name.com,,
 557f6972-4a7c-402b-b7bd-f2e141d511ca,AcademyAward.quest,available,19.98,,76,1,13,namecheap,,
 55a27864-5641-4a5c-99cf-b2e6ffb35d1d,bonfires.quest,available,1.99,,60,4,8,name.com,,
-55a83fa1-5546-47e5-a80d-fb1d8bbc30c1,gomissing.quest,available,1.99,,70,1,10,name.com,,
-55c0557a-013a-4148-a290-f22872760eaf,accountpayable.quest,available,1.99,,62,2,15,name.com,,
