@@ -38,6 +38,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 03525bb2-47f0-44db-b31d-4773ca3635ac,clients.quest,resell,,,58,20,7,Dynadot LLC,15/07/2025 12:08,15/07/2026 23:59
 035d543f-bc9d-433e-84d8-2a283bb3b7ba,reston.quest,available,1.99,,75,10,7,name.com,,
 0385a539-cfae-4b0f-8c38-df1b8b376a15,appraisals.quest,available,1.99,,56,10,10,name.com,,
+039a2f46-861b-4e6b-b4d7-a6dfbedc6343,else.quest,premium,,,80,21,4,,,
 03ab3e5d-a690-4b2c-95c1-881fd48087d0,midlifecrisis.quest,available,1.99,,58,9,15,name.com,,
 03bd1f3d-94b8-410c-a9c8-cdfcb26f9fc5,WorldWarIV.quest,available,19.98,,52,1,12,namecheap,,
 03db6f1d-1be6-4f62-b824-02ed1bfaccdc,keephopealive.quest,available,1.99,,50,2,15,name.com,,
@@ -656,6 +657,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3a36b60a-e57e-4500-8e85-5f9813fc4bf4,posters.quest,available,1.99,,60,13,7,name.com,,
 3a69a063-c683-4adb-a66e-063d86c4437c,launched.quest,available,1.99,,65,13,8,name.com,,
 3a73ab7b-6557-4e40-b585-ca90b38a3fc8,intheprocess.quest,available,1.99,,52,1,14,name.com,,
+3a803106-2ecf-466b-b418-3ee633a0a6a2,Germanshepherd.quest,premium,,,66,17,15,,,
 3a884ab6-91e5-499b-8337-e05abf15d281,filingfees.quest,available,1.99,,46,1,11,name.com,,
 3a8ab643-b169-41a7-b16c-a99ea7033919,Ilostmybackpack.quest,available,19.98,,50,1,18,namecheap,,
 3aa08b4b-906f-488b-8ef4-78d76b030c15,forces.quest,available,1.99,,82,12,6,name.com,,
@@ -818,6 +820,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 480a17a4-e536-42d5-ba53-f806061a97bd,filewith.quest,available,1.99,,68,2,9,name.com,,
 480d9226-7a68-4db0-b575-e4757026e3c4,plated.quest,available,1.99,,66,11,6,name.com,,
 4813b29a-0900-4c88-97d4-065e0d30e30c,keepnote.quest,available,1.99,,48,2,9,name.com,,
+481ba05c-5106-46ee-88d4-5f5f8b91bcb3,because.quest,premium,,,78,22,7,,,
 482b5105-d707-4719-a314-4d9e7f7b7e31,committees.quest,available,1.99,,48,3,10,name.com,,
 48562355-3493-4da5-8ff1-3f0b341ac0c5,assuch.quest,available,1.99,,66,1,7,name.com,,
 486e446d-8114-4560-8a22-51302120ad05,Icouldeatahorse.quest,available,19.98,,50,1,19,namecheap,,
@@ -996,6 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 554a0dc6-a4e7-49e5-afc4-9f233a9c1598,cheeseit.quest,available,1.99,,54,2,9,name.com,,
 555efab6-51e0-4984-84d2-b10fb39dd778,cuttothechase.quest,resell,,,68,4,16,Namecheap,06/12/2025 09:27,06/12/2026 23:59
 555f9d01-4d64-450c-a26f-2f4d0c0854c6,getoutsideof.quest,available,1.99,,66,1,14,name.com,,
-556157bf-79e0-424d-bec7-54c34013b8d3,potatochips.quest,available,1.99,,54,5,12,name.com,,
-557f6972-4a7c-402b-b7bd-f2e141d511ca,AcademyAward.quest,available,19.98,,76,1,13,namecheap,,
-55a27864-5641-4a5c-99cf-b2e6ffb35d1d,bonfires.quest,available,1.99,,60,4,8,name.com,,
