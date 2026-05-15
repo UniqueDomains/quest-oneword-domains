@@ -137,7 +137,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0af380ce-320c-4bf7-8f76-c63aeec3368b,worldsapart.quest,available,1.99,,64,3,12,name.com,,
 0b088be6-f1df-446d-a0f3-41fdcac2833a,macandcheese.quest,available,1.99,,72,4,14,name.com,,
 0b0f1b08-0fdb-4f15-b3d5-c6be88be1a12,rollercoaster.quest,available,1.99,,69,8,14,name.com,,
-0b1e7d2a-e8ab-40e6-9070-ba5fcbde8e56,markets.quest,resell,,,62,29,7,Dynadot LLC,29/01/2026 18:12,29/01/2027 23:59
+0b1e7d2a-e8ab-40e6-9070-ba5fcbde8e56,markets.quest,resell,,,62,25,7,Dynadot LLC,29/01/2026 18:12,29/01/2027 23:59
 0b226327-01bf-4dc7-afcc-1284199e8d8b,toburn.quest,available,1.99,,50,1,7,name.com,,
 0b3e6754-214e-449b-9ae7-fa75d18bb2fe,gowithGod.quest,available,19.98,,68,2,11,namecheap,,
 0b4380e0-9631-4940-b1fd-fbf360a5ac13,tartarsauce.quest,available,1.99,,76,2,12,name.com,,
