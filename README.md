@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .quest one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,528 domains · **Median ask:** $108.27 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/quest`  
 **Best for:** founders, investors, studios
 
@@ -71,19 +71,19 @@ print(df.head())
 | playin.quest        | available | $1.99     | —             | 80             | 10     | 7      | name.com        |
 | QandA.quest         | available | $19.98    | —             | 80             | 10     | 7      | namecheap       |
 | toneup.quest        | available | $1.99     | —             | 80             | 5      | 7      | name.com        |
-| courses.quest       | available | $1.99     | —             | 82             | 24     | 7      | name.com        |
-| makeit.quest        | available | $1.99     | —             | 82             | 22     | 7      | name.com        |
+| courses.quest       | available | $1.99     | —             | 82             | 20     | 7      | name.com        |
+| makeit.quest        | available | $1.99     | —             | 82             | 21     | 7      | name.com        |
 | keepthechange.quest | available | $1.99     | —             | 46             | 59     | 15     | name.com        |
-| whynot.quest        | resell    | —         | —             | 74             | 39     | 7      | Spaceship, Inc. |
+| whynot.quest        | resell    | —         | —             | 74             | 44     | 7      | Spaceship, Inc. |
 | insight.quest       | premium   | $2,500    | —             | 76             | 69     | 8      | name.com        |
 | etc.quest           | available | $1.99     | —             | 58             | 34     | 3      | name.com        |
 | unify.quest         | resell    | —         | —             | 72             | 38     | 5      | Porkbun, LLC    |
 | online.quest        | premium   | $2,500    | —             | 70             | 62     | 7      | name.com        |
+| inhouse.quest       | available | $1.99     | —             | 70             | 23     | 8      | name.com        |
 | WiFi.quest          | resell    | —         | —             | 83             | 37     | 5      | Spaceship, Inc. |
 | Ryan.quest          | premium   | $2,800    | $2,800        | 60             | 44     | 4      | namecheap       |
-| inhouse.quest       | available | $1.99     | —             | 70             | 23     | 8      | name.com        |
-| invoice.quest       | resell    | —         | —             | 72             | 33     | 8      | Dynadot LLC     |
-| jobs.quest          | premium   | $812.50   | —             | 79             | 42     | 4      | name.com        |
+| webshop.quest       | available | $1.99     | —             | 76             | 22     | 8      | name.com        |
+| invoice.quest       | resell    | —         | —             | 72             | 34     | 8      | Dynadot LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .QUEST One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .QUEST One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
