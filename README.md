@@ -76,14 +76,14 @@ print(df.head())
 | keepthechange.quest | available | $1.99     | —             | 46             | 59     | 15     | name.com        |
 | whynot.quest        | resell    | —         | —             | 74             | 44     | 7      | Spaceship, Inc. |
 | insight.quest       | premium   | $2,500    | —             | 76             | 69     | 8      | name.com        |
-| etc.quest           | available | $1.99     | —             | 58             | 34     | 3      | name.com        |
+| etc.quest           | available | $1.99     | —             | 58             | 32     | 3      | name.com        |
 | unify.quest         | resell    | —         | —             | 72             | 38     | 5      | Porkbun, LLC    |
 | online.quest        | premium   | $2,500    | —             | 70             | 62     | 7      | name.com        |
-| inhouse.quest       | available | $1.99     | —             | 70             | 23     | 8      | name.com        |
+| inhouse.quest       | available | $1.99     | —             | 70             | 24     | 8      | name.com        |
 | WiFi.quest          | resell    | —         | —             | 83             | 37     | 5      | Spaceship, Inc. |
 | Ryan.quest          | premium   | $2,800    | $2,800        | 60             | 44     | 4      | namecheap       |
-| webshop.quest       | available | $1.99     | —             | 76             | 22     | 8      | name.com        |
 | invoice.quest       | resell    | —         | —             | 72             | 34     | 8      | Dynadot LLC     |
+| jobs.quest          | premium   | $812.50   | —             | 79             | 42     | 4      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
