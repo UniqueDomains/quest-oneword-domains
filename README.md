@@ -1,10 +1,10 @@
-# Available .QUEST One-Word Domains (11,532)
+# Available .QUEST One-Word Domains (11,548)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C532%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C548%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .quest one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,532 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,548 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,532 domains · **Median ask:** $170.99 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,548 domains · **Median ask:** $151.84 · **High-demand under $2,500:** 15
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/quest`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| just.quest      | resell    | —         | —             | high           | medium | 4      | Dynadot LLC                                  |
-| christmas.quest | premium   | $812.50   | —             | high           | low    | 9      | name.com                                     |
-| clean.quest     | premium   | $2,500    | —             | high           | low    | 5      | name.com                                     |
-| arm.quest       | available | $1.99     | $15.75        | high           | medium | 3      | namesilo                                     |
-| gear.quest      | resell    | $1.99     | —             | high           | low    | 4      | Spaceship, Inc.                              |
-| age.quest       | premium   | $812.50   | —             | high           | low    | 3      | name.com                                     |
-| bow.quest       | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                     |
-| stop.quest      | resell    | $663.32   | —             | high           | low    | 4      | UM DOMAINS PTE. LTD.                         |
-| gay.quest       | premium   | $812.50   | —             | high           | medium | 3      | name.com                                     |
-| lap.quest       | available | $1.99     | —             | high           | low    | 3      | name.com                                     |
-| engage.quest    | resell    | $1.99     | —             | high           | low    | 6      | Spaceship, Inc.                              |
-| map.quest       | premium   | $10,400   | $10,400       | high           | medium | 3      | namecheap                                    |
-| tub.quest       | available | $1.99     | —             | high           | low    | 3      | name.com                                     |
-| dog.quest       | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| nan.quest       | premium   | $812.50   | —             | high           | low    | 3      | name.com                                     |
-| xix.quest       | available | $1.99     | $20.99        | high           | low    | 3      | name.com                                     |
-| led.quest       | resell    | —         | —             | high           | low    | 3      | Dynadot LLC                                  |
-| set.quest       | premium   | $812.50   | —             | high           | low    | 3      | name.com                                     |
-| yum.quest       | available | $1.99     | —             | high           | low    | 3      | name.com                                     |
-| mom.quest       | resell    | —         | —             | high           | low    | 3      | Go Daddy, LLC                                |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| aft.quest    | available | $1.80     | $19.98        | low            | low    | 3      | namecheap                                    |
+| gear.quest   | resell    | $1.99     | —             | high           | low    | 4      | Spaceship, Inc.                              |
+| age.quest    | premium   | $812.50   | —             | high           | low    | 3      | name.com                                     |
+| arm.quest    | available | $1.99     | $15.75        | high           | medium | 3      | namesilo                                     |
+| stop.quest   | resell    | $663.32   | —             | high           | low    | 4      | UM DOMAINS PTE. LTD.                         |
+| gay.quest    | premium   | $812.50   | —             | high           | medium | 3      | name.com                                     |
+| bow.quest    | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                     |
+| engage.quest | resell    | $1.99     | —             | high           | low    | 6      | Spaceship, Inc.                              |
+| map.quest    | premium   | $10,400   | $10,400       | high           | medium | 3      | namecheap                                    |
+| cxl.quest    | available | $1.80     | $19.98        | low            | low    | 3      | namecheap                                    |
+| ain.quest    | resell    | —         | —             | low            | low    | 3      | NameCheap, Inc.                              |
+| nan.quest    | premium   | $812.50   | —             | high           | low    | 3      | name.com                                     |
+| lap.quest    | available | $1.99     | —             | high           | low    | 3      | name.com                                     |
+| dog.quest    | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| set.quest    | premium   | $812.50   | —             | high           | low    | 3      | name.com                                     |
+| lxv.quest    | available | $1.80     | $19.98        | low            | low    | 3      | namecheap                                    |
+| led.quest    | resell    | —         | —             | high           | low    | 3      | Dynadot LLC                                  |
+| top.quest    | premium   | $812.50   | —             | high           | medium | 3      | name.com                                     |
+| tub.quest    | available | $1.99     | —             | high           | low    | 3      | name.com                                     |
+| mom.quest    | resell    | —         | —             | high           | low    | 3      | Go Daddy, LLC                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,532 live domains                        |
+| 1,000-row public sample | 11,548 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 15 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .QUEST One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .QUEST One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
