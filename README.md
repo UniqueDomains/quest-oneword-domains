@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .quest one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,248 domains · **Median ask:** $105.05 · **High-demand under $2,500:** 17
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/quest`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| aft.quest    | available | $1.80     | $19.98        | low            | low    | 3      | namecheap                                    |
-| gear.quest   | resell    | $1.99     | —             | high           | low    | 4      | Spaceship, Inc.                              |
-| age.quest    | premium   | $812.50   | —             | high           | low    | 3      | name.com                                     |
-| arm.quest    | available | $1.99     | $15.75        | high           | medium | 3      | namesilo                                     |
-| stop.quest   | resell    | $663.32   | —             | high           | low    | 4      | UM DOMAINS PTE. LTD.                         |
-| gay.quest    | premium   | $812.50   | —             | high           | medium | 3      | name.com                                     |
-| bow.quest    | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                     |
-| engage.quest | resell    | $1.99     | —             | high           | low    | 6      | Spaceship, Inc.                              |
-| map.quest    | premium   | $10,400   | $10,400       | high           | medium | 3      | namecheap                                    |
-| cxl.quest    | available | $1.80     | $19.98        | low            | low    | 3      | namecheap                                    |
-| ain.quest    | resell    | —         | —             | low            | low    | 3      | NameCheap, Inc.                              |
-| nan.quest    | premium   | $812.50   | —             | high           | low    | 3      | name.com                                     |
-| lap.quest    | available | $1.99     | —             | high           | low    | 3      | name.com                                     |
-| dog.quest    | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| set.quest    | premium   | $812.50   | —             | high           | low    | 3      | name.com                                     |
-| lxv.quest    | available | $1.80     | $19.98        | low            | low    | 3      | namecheap                                    |
-| led.quest    | resell    | —         | —             | high           | low    | 3      | Dynadot LLC                                  |
-| top.quest    | premium   | $812.50   | —             | high           | medium | 3      | name.com                                     |
-| tub.quest    | available | $1.99     | —             | high           | low    | 3      | name.com                                     |
-| mom.quest    | resell    | —         | —             | high           | low    | 3      | Go Daddy, LLC                                |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| just.quest      | resell    | —         | —             | high           | medium | 4      | Dynadot LLC                                  |
+| christmas.quest | premium   | $812.50   | —             | high           | low    | 9      | name.com                                     |
+| aft.quest       | available | $1.80     | $19.98        | low            | low    | 3      | namecheap                                    |
+| gear.quest      | resell    | $1.99     | —             | high           | low    | 4      | Spaceship, Inc.                              |
+| age.quest       | premium   | $812.50   | —             | high           | low    | 3      | name.com                                     |
+| arm.quest       | available | $1.99     | $15.75        | high           | medium | 3      | namesilo                                     |
+| stop.quest      | resell    | $663.32   | —             | high           | low    | 4      | UM DOMAINS PTE. LTD.                         |
+| gay.quest       | premium   | $812.50   | —             | high           | medium | 3      | name.com                                     |
+| bow.quest       | available | $1.99     | $15.75        | high           | low    | 3      | namesilo                                     |
+| engage.quest    | resell    | $1.99     | —             | high           | low    | 6      | Spaceship, Inc.                              |
+| map.quest       | premium   | $10,400   | $10,400       | high           | medium | 3      | namecheap                                    |
+| cxl.quest       | available | $1.80     | $19.98        | low            | low    | 3      | namecheap                                    |
+| ain.quest       | resell    | —         | —             | low            | low    | 3      | NameCheap, Inc.                              |
+| nan.quest       | premium   | $812.50   | —             | high           | low    | 3      | name.com                                     |
+| lap.quest       | available | $1.99     | —             | high           | low    | 3      | name.com                                     |
+| dog.quest       | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| set.quest       | premium   | $812.50   | —             | high           | low    | 3      | name.com                                     |
+| lxv.quest       | available | $1.80     | $19.98        | low            | low    | 3      | namecheap                                    |
+| led.quest       | resell    | —         | —             | high           | low    | 3      | Dynadot LLC                                  |
+| top.quest       | premium   | $812.50   | —             | high           | medium | 3      | name.com                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .QUEST One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .QUEST One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
