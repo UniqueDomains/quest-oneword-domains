@@ -352,7 +352,7 @@ d06ec6a4-6ff4-4b00-b17f-a95a6207bb06,walk.quest,resell,,,high,low,4,"Spaceship, 
 86876f90-cbbc-4d63-99a3-5c928a97e605,career.quest,premium,2500,,high,low,6,name.com,,
 dd488ed1-cbe4-4aa7-bcfa-abf49d030221,Englishmuffin.quest,available,1.99,15.75,high,low,14,namesilo,,
 b8674e02-e0d7-49ee-9895-99eb8529ef38,acrobatic.quest,available,1.8,19.98,low,low,9,namecheap,,
-a8818203-21ce-4e94-9062-06bbdf9d64ee,letterspatent.quest,available,1.99,,medium,low,14,name.com,,
+a8818203-21ce-4e94-9062-06bbdf9d64ee,letterspatent.quest,available,1.8,19.98,low,low,14,namecheap,,
 96fc7392-6f25-43ee-a50a-defc46923cd5,dishonor.quest,available,1.99,15.75,high,low,8,namesilo,,
 80825868-e7ca-48b3-bc5a-e9fdc25a0c32,engage.quest,resell,1.99,,high,low,6,"Spaceship, Inc.",24/03/2026 19:34,24/03/2027 23:59
 0b3ccefa-147c-4f52-84e7-6cc9f60299cf,anarchical.quest,available,1.8,19.98,low,low,10,namecheap,,
@@ -886,6 +886,7 @@ f86d2f5c-eef7-444c-98ba-26f48fd682fc,generically.quest,available,1.99,,medium,lo
 df957084-8489-4894-adf2-1cf2335900d9,adust.quest,available,1.8,19.98,low,low,5,namecheap,,
 d7f72c50-b3ad-4303-ad9c-a1a6c514affe,adrenal.quest,available,1.8,19.98,low,low,7,namecheap,,
 cb24d3bc-169b-4ada-bf44-b2a91f40ed37,driving.quest,resell,,,high,low,7,"Spaceship, Inc.",12/04/2026 21:51,12/04/2027 23:59
+042b007c-e5e7-4a8d-acdb-f9f9fdf7405f,hands.quest,resell,,,low,low,5,Dynadot Inc,18/08/2026 04:12,18/08/2027 23:59
 6c6d31c9-7087-4d18-a18c-49badf35c304,MexicoCity.quest,available,1.99,,medium,low,11,name.com,,
 f79a81d7-b453-4dc4-8734-0276f090e237,badly.quest,available,1.99,15.75,medium,low,5,namesilo,,
 b9beebad-40ab-4306-b87d-616734f34a0a,asymmetric.quest,available,1.8,19.98,low,low,10,namecheap,,
@@ -998,4 +999,3 @@ a04d9ae2-ca7a-4424-914e-104f02d6d9bc,wholly.quest,available,1.8,19.98,low,low,6,
 29769dc5-e506-4255-9cb1-45bf4e6f30ed,loft.quest,premium,2500,,medium,low,4,name.com,,
 517bd802-0d21-4fd4-bb5c-6f1a454353c0,retail.quest,premium,812.5,,high,low,6,name.com,,
 4be50de0-5680-446f-8b09-3d0d83cfd8e4,accepting.quest,available,1.99,20.99,high,low,9,name.com,,
-7515efad-376a-47b8-95d4-02e40740a47d,augean.quest,available,1.8,19.98,low,low,6,namecheap,,
