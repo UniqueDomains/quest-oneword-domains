@@ -352,7 +352,7 @@ d06ec6a4-6ff4-4b00-b17f-a95a6207bb06,walk.quest,resell,,,high,low,4,"Spaceship, 
 86876f90-cbbc-4d63-99a3-5c928a97e605,career.quest,premium,2500,,high,low,6,name.com,,
 dd488ed1-cbe4-4aa7-bcfa-abf49d030221,Englishmuffin.quest,available,1.99,15.75,high,low,14,namesilo,,
 b8674e02-e0d7-49ee-9895-99eb8529ef38,acrobatic.quest,available,1.8,19.98,low,low,9,namecheap,,
-a8818203-21ce-4e94-9062-06bbdf9d64ee,letterspatent.quest,available,1.8,19.98,low,low,14,namecheap,,
+a8818203-21ce-4e94-9062-06bbdf9d64ee,letterspatent.quest,available,1.8,21.98,low,low,14,namecheap,,
 96fc7392-6f25-43ee-a50a-defc46923cd5,dishonor.quest,available,1.99,15.75,high,low,8,namesilo,,
 80825868-e7ca-48b3-bc5a-e9fdc25a0c32,engage.quest,resell,1.99,,high,low,6,"Spaceship, Inc.",24/03/2026 19:34,24/03/2027 23:59
 0b3ccefa-147c-4f52-84e7-6cc9f60299cf,anarchical.quest,available,1.8,19.98,low,low,10,namecheap,,
@@ -907,7 +907,7 @@ b64a5056-ff5c-49c5-9282-f715284c43af,andantino.quest,available,1.8,19.98,low,low
 b2328083-1a6e-4f0a-93cb-a67fe3cafaa2,aft.quest,available,1.8,19.98,low,low,3,namecheap,,
 2154a78e-1b9e-4b51-9164-b90d64d6284e,givesomeoneahand.quest,available,1.99,15.75,high,low,19,namesilo,,
 b3e45c87-c24b-4862-9b98-56a65eff1bac,autotypic.quest,available,1.8,19.98,low,low,9,namecheap,,
-abc5a9b3-2afc-43e7-8cc8-d8cc0efa10f4,alleyway.quest,available,1.8,19.98,low,low,8,namecheap,,
+abc5a9b3-2afc-43e7-8cc8-d8cc0efa10f4,alleyway.quest,available,1.8,21.98,low,low,8,namecheap,,
 8d85abc4-a88f-4881-a753-9fde145fa4bd,disagree.quest,available,1.99,15.75,medium,low,8,namesilo,,
 40998d67-3239-494e-9c87-0056a4b7a5d7,modem.quest,available,1.99,,high,low,5,name.com,,
 0a3a9f8b-d482-4f74-a022-556cfc19b668,problem.quest,resell,,,high,low,7,"Xiamen ChinaSource Internet Service Co., Ltd",18/08/2025 10:03,18/08/2026 23:59
