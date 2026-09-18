@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .quest one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,221 domains · **Median ask:** $76.51 · **High-demand under $2,500:** 18
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/quest`
 **Best for:** founders, investors, studios
 
@@ -83,7 +83,7 @@ print(df.head())
 | dog.quest    | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
 | top.quest    | premium   | $812.50   | —             | high           | medium | 3      | name.com                                     |
 | tub.quest    | available | $1.99     | —             | high           | low    | 3      | name.com                                     |
-| led.quest    | resell    | —         | —             | high           | low    | 3      | Dynadot LLC                                  |
+| mom.quest    | resell    | —         | —             | high           | low    | 3      | Go Daddy, LLC                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .QUEST One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .QUEST One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
