@@ -1,11 +1,11 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 c609626d-28fb-416c-a7d8-494410941b5a,suffered.quest,available,1.99,17.29,low,low,8,namesilo,,,27/09/2026 02:46
-0e08824a-483c-4cad-8c40-a727c5a9a9e0,arlington.quest,available,1.99,17.29,high,low,9,namesilo,,,20/09/2026 06:16
+0e08824a-483c-4cad-8c40-a727c5a9a9e0,arlington.quest,available,1.99,17.29,medium,low,9,namesilo,,,20/09/2026 06:16
 b5042621-cbb9-4da8-ba02-b4544da52c1e,conclusive.quest,available,1.8,21.98,high,low,10,namecheap,,,23/09/2026 19:11
 9c9d7429-85ad-46ae-970b-d83e92eee4e1,impotent.quest,available,1.8,19.98,medium,low,8,namecheap,,,21/08/2026 22:52
 799006a1-6f55-4a66-b412-def06af00ab3,dying.quest,available,1.99,17.29,high,low,5,namesilo,,,24/09/2026 12:37
 a34ae933-ad17-4a47-b1d8-a67ad2b190cf,venezuelan.quest,available,1.8,21.98,high,low,10,namecheap,,,13/09/2026 02:04
-1b2926fc-de38-4883-9af5-1b57aa0949ad,retired.quest,available,1.99,,high,low,7,name.com,,,
+1b2926fc-de38-4883-9af5-1b57aa0949ad,retired.quest,available,1.24,13.97,high,low,7,spaceship,,,27/09/2026 13:17
 334d5edc-705d-4bbd-bce2-c45ccd1fc3ae,improvise.quest,available,1.99,17.29,high,low,9,namesilo,,,21/09/2026 16:45
 7e02ba73-e5b7-4959-b804-a0cb8fecac1b,inviolable.quest,available,1.8,19.98,medium,low,10,namecheap,,,21/08/2026 23:02
 dcc41dc9-b29c-4409-94c9-bf05b24fe394,hazard.quest,available,,,medium,low,6,,,,
@@ -20,7 +20,6 @@ f381ae4a-fc12-421b-8a58-b8f8b68e74f7,vexer.quest,available,1.99,17.29,medium,low
 c407fa42-e380-407a-b27b-9c9ea8d2f27e,blither.quest,available,1.8,21.98,medium,low,7,namecheap,,,24/09/2026 04:54
 cd039d84-21f7-4bf5-8582-47c4ea3e777b,existing.quest,available,1.99,17.29,high,low,8,namesilo,,,24/09/2026 15:59
 595e7bfb-5e14-45ba-adc5-4183f339ba65,imbecile.quest,available,1.8,19.98,medium,low,8,namecheap,,,21/08/2026 20:22
-197d261f-2b53-476f-9453-864983063355,shallow.quest,available,,,medium,low,7,,,,
 ce77d054-6f2c-48c5-a48f-51845a1b6ce1,attempted.quest,available,1.8,19.98,medium,low,9,namecheap,,,07/08/2026 15:12
 db703aed-934f-4599-96bd-9edf9fc566fd,lol.quest,resell,,,high,low,3,"Spaceship, Inc.",06/04/2026 20:52,06/04/2027 23:59,26/09/2026 07:18
 ab56127f-5214-4894-8357-ceb9da8a68a8,ativan.quest,available,1.99,20.99,medium,low,6,name.com,,,20/09/2026 21:30
@@ -28,8 +27,9 @@ ab56127f-5214-4894-8357-ceb9da8a68a8,ativan.quest,available,1.99,20.99,medium,lo
 fb05ad22-eb37-4877-bbc2-bf529cb32632,ascending.quest,available,1.8,19.98,high,low,9,namecheap,,,07/08/2026 00:51
 f5ba5771-0769-4a27-ad40-6efae798a17e,meanly.quest,available,1.8,21.98,medium,low,6,namecheap,,,13/09/2026 23:32
 961af6ed-8d20-401e-bd86-d54502f56b03,feathered.quest,available,1.8,19.98,high,low,9,namecheap,,,18/08/2026 00:19
+3b650694-6768-429a-824b-d5bdee194db0,sylvia.quest,available,1.8,21.98,high,low,6,namecheap,,,27/09/2026 19:08
 41fad693-f755-45e8-9733-0265a550de76,statute.quest,available,1.8,21.98,high,low,7,namecheap,,,10/09/2026 19:18
-07c7aac2-ca53-4846-a15f-cbc06be98691,apical.quest,available,1.8,19.98,high,low,6,namecheap,,,05/08/2026 23:58
+07c7aac2-ca53-4846-a15f-cbc06be98691,apical.quest,available,1.8,19.98,medium,low,6,namecheap,,,05/08/2026 23:58
 4ec25fb4-7804-4cdc-a78b-77e171fc8220,license.quest,resell,,,high,low,7,"Spaceship, Inc.",28/05/2026 19:26,28/05/2027 23:59,26/09/2026 07:13
 3b462b70-3e12-4c5c-9460-0cd4ca7e7059,detain.quest,available,1.8,21.98,high,low,6,namecheap,,,24/09/2026 21:28
 f080f240-7191-4a05-b2c5-f0e8e56e7e1b,sympathetic.quest,available,1.99,,high,low,11,name.com,,,
@@ -49,6 +49,7 @@ dbef18fe-2300-4854-a1ce-2c3253fde8d6,hoarse.quest,available,1.8,19.98,medium,low
 a6ad3dc6-2302-4bdc-8e48-7762993d9f5a,allomorph.quest,available,1.8,21.98,medium,low,9,namecheap,,,18/09/2026 11:59
 03d2d4f4-5a67-4523-8814-6f2099a8dbc5,lowbred.quest,available,1.8,19.98,low,low,7,namecheap,,,10/08/2026 22:02
 1910fbae-0f52-47a9-bb4a-32832679c631,tended.quest,available,1.99,17.29,medium,low,6,namesilo,,,18/09/2026 22:30
+8e1deae0-ea7d-4e4a-bfe5-45bdff7aed81,remembers.quest,available,1.24,13.97,medium,low,9,spaceship,,,28/09/2026 00:17
 8002758c-b6b5-463f-ac0f-6af9711baa34,avarice.quest,available,1.99,17.29,medium,low,7,namesilo,,,21/09/2026 08:42
 c47a4292-ea11-4bc4-810b-00ad52820f9b,burr.quest,available,1.99,17.29,medium,low,4,namesilo,,,16/09/2026 13:29
 4e2c181e-fad9-49d6-9b30-cb05b820899a,coequal.quest,available,1.8,19.98,medium,low,7,namecheap,,,12/08/2026 15:22
@@ -63,6 +64,7 @@ fd279f00-a1d5-43f9-898c-33536c0e2750,nutella.quest,available,1.99,17.29,high,med
 bd9a0886-6793-4240-ab37-059f32394e69,campaigning.quest,available,1.99,15.75,high,low,11,namesilo,,,
 95f3e45e-c3d3-47f5-8e13-b2069caf68b9,containers.quest,available,1.8,21.98,medium,low,10,namecheap,,,19/09/2026 01:32
 f559cf17-f284-4a91-a9f2-c3b887393f1d,uppish.quest,available,1.8,19.98,low,low,6,namecheap,,,09/08/2026 20:46
+f6bc564c-04d8-4f29-9e71-436d32cd91cf,msa.quest,available,1.24,13.97,high,low,3,spaceship,,,28/09/2026 03:30
 2126dbfc-9ac5-41d0-82a4-e4eeb15c3fd3,wysiwyg.quest,available,1.8,21.98,high,low,7,namecheap,,,13/09/2026 13:51
 2c379aee-4c7d-4489-89d9-49470ad7d556,legion.quest,premium,2660,2660,high,low,6,namesilo,,,25/09/2026 13:28
 9efcc83e-2f27-4f03-8e8b-d21ff901dc9e,carbon.quest,resell,,,high,medium,6,Dynadot Inc,08/02/2026 05:15,08/02/2027 23:59,26/09/2026 04:46
@@ -88,7 +90,7 @@ cadbf61f-7c52-4eb2-b2f0-cd30243ded09,linnaean.quest,available,1.8,19.98,medium,l
 22cb7406-64e0-4927-8353-627999b5dbec,unthankful.quest,available,1.8,21.98,medium,low,10,namecheap,,,11/09/2026 12:29
 9e9f932f-7f7b-4ec7-91ff-1e7649517782,bonhomie.quest,available,1.99,17.29,high,low,8,namesilo,,,17/09/2026 13:57
 3d60392e-860b-44d4-a5d6-cf3871bd95d1,dominion.quest,premium,2600,2600,high,low,8,namecheap,,,24/09/2026 23:09
-99ce1c92-df4a-474a-be9e-c54920101612,alfresco.quest,available,1.8,19.98,high,low,8,namecheap,,,
+99ce1c92-df4a-474a-be9e-c54920101612,alfresco.quest,available,1.8,19.98,medium,low,8,namecheap,,,
 d9d45bc1-0a3b-41fa-96dd-00b169cdda58,operators.quest,available,1.99,17.29,medium,low,9,namesilo,,,24/09/2026 03:39
 2808b785-0f8a-4899-aa4f-30de26795a0f,kinsey.quest,available,1.8,21.98,high,low,6,namecheap,,,18/09/2026 06:26
 2b77b4b9-5297-4f4b-98e1-0f2e7447cc96,soissons.quest,available,1.99,17.29,medium,low,8,namesilo,,,22/09/2026 15:58
@@ -104,7 +106,7 @@ cc1ae06d-e2a7-4276-88fe-aae70ef88ed7,censure.quest,available,1.99,17.29,medium,l
 f067a97f-1601-4201-9aad-f49fe6ab2790,bumpkin.quest,available,1.8,19.98,medium,low,7,namecheap,,,21/08/2026 08:07
 2dc05a34-2b15-4236-835e-86a9ea68dc87,casteless.quest,available,1.8,19.98,medium,low,9,namecheap,,,11/08/2026 20:25
 0d29472a-e127-4e53-85ca-348546462ab3,ecological.quest,available,1.99,20.99,high,low,10,name.com,,,22/09/2026 21:01
-8eafa214-51b4-4795-bac7-ee4482e44e3c,contested.quest,available,1.8,21.98,high,low,9,namecheap,,,23/09/2026 22:01
+8eafa214-51b4-4795-bac7-ee4482e44e3c,contested.quest,available,1.8,21.98,medium,low,9,namecheap,,,23/09/2026 22:01
 b25902c6-7976-4912-a208-d2d145d8b206,vacantly.quest,available,1.99,17.29,low,low,8,namesilo,,,16/09/2026 10:32
 9e819aef-fe99-4210-8124-4cea4e9a3030,acetylene.quest,available,1.8,21.98,medium,low,9,namecheap,,,17/09/2026 00:22
 2b33f149-f433-416f-a61b-0313a70dec79,unharmed.quest,available,1.8,21.98,high,low,8,namecheap,,,12/09/2026 12:00
@@ -131,18 +133,19 @@ f8b40da8-6c9c-4324-979d-4a70a12c54fd,midwinter.quest,available,1.99,,medium,low,
 dadb99bc-bf4f-42ba-80f7-fa14b39f5ffe,southwards.quest,available,1.8,21.98,high,medium,10,namecheap,,,10/09/2026 14:52
 bbd60dba-1980-411c-9739-4cab0df8cc9e,savage.quest,premium,812.5,20.99,high,low,6,name.com,,,08/08/2026 15:36
 38cefc36-0989-4a6d-9954-5b62fe4b26aa,acoustics.quest,available,1.99,17.29,high,low,9,namesilo,,,17/09/2026 02:36
-df72b341-c327-4223-802b-79d40f4f2fc4,aftershock.quest,available,1.8,21.98,high,low,10,namecheap,,,17/09/2026 15:51
-9df688d1-cf34-4ebe-8605-2ae562c73369,detail.quest,available,1.99,17.29,high,low,6,namesilo,,,27/09/2026 09:10
+df72b341-c327-4223-802b-79d40f4f2fc4,aftershock.quest,available,1.8,21.98,medium,low,10,namecheap,,,17/09/2026 15:51
+9df688d1-cf34-4ebe-8605-2ae562c73369,detail.quest,available,1.99,17.29,medium,low,6,namesilo,,,27/09/2026 09:10
 aaedd08e-9cb1-441e-bed1-17accecca9c9,blanket.quest,available,1.8,21.98,high,low,7,namecheap,,,08/09/2026 07:17
 f4d1bd34-f0c2-43bb-8e60-acd911a32c59,multiform.quest,available,1.8,21.98,high,low,9,namecheap,,,03/09/2026 10:41
 660a2d2f-0112-4a03-b8c8-7d2dfc42a7f9,lxxxviii.quest,available,1.8,19.98,medium,low,8,namecheap,,,
 43da7db5-b373-45a2-8c7c-7d7f81ac699a,mclaughlin.quest,available,1.99,17.29,medium,low,10,namesilo,,,27/09/2026 01:56
 bdf1afa8-a092-4441-bb10-784a0a55300a,asynchrony.quest,available,1.99,17.29,medium,low,10,namesilo,,,20/09/2026 18:41
-6fef91fd-57c0-469f-aeed-8bca7ac641db,resonating.quest,available,1.24,13.97,high,low,10,spaceship,,,27/09/2026 12:29
+6fef91fd-57c0-469f-aeed-8bca7ac641db,resonating.quest,available,1.24,13.97,medium,low,10,spaceship,,,27/09/2026 12:29
 5337ade4-9cec-428a-8a23-674c3f32dc82,yearner.quest,available,1.8,21.98,medium,low,7,namecheap,,,15/09/2026 12:51
 24605173-a9ce-416b-a09d-a30536856511,nostrils.quest,available,1.99,,medium,low,8,name.com,,,
 9d795bbb-3f98-4ed5-bf1e-25b669a8f36a,bilberry.quest,available,1.8,21.98,medium,low,8,namecheap,,,23/09/2026 15:37
 7f963be4-d72b-4887-a197-e75f2edd9e9d,strict.quest,available,1.8,19.98,medium,low,6,namecheap,,,21/08/2026 00:17
+a546277a-59b5-46cc-93da-bbbc7b0cd85d,depth.quest,available,0.99,25.99,high,low,5,godaddy,,,28/09/2026 01:46
 2fa3a628-d632-4866-bef0-2f5713e9a3fd,emir.quest,available,1.99,20.99,high,low,4,name.com,,,18/09/2026 17:55
 de194d6e-2649-41d4-8331-bb0bbc32b209,tensile.quest,available,1.8,21.98,medium,low,7,namecheap,,,11/09/2026 11:30
 0c8ee23e-bf51-43b5-a4f8-5d747d287976,sore.quest,available,1.8,19.98,high,low,4,namecheap,,,
@@ -158,6 +161,7 @@ ae01b75e-103c-4925-8f74-943a44a99daf,aranyaka.quest,available,1.99,20.99,medium,
 6e267573-fc6a-4fa7-8c6d-08dc405577be,economic.quest,available,1.99,17.29,high,low,8,namesilo,,,24/09/2026 13:22
 45cd4397-36cb-4d0b-8860-776164d1b84d,strengthen.quest,available,1.99,,high,low,10,name.com,,,
 9a540fc4-162f-45d9-8c46-a4ef8f36408a,ritenuto.quest,available,1.8,21.98,high,medium,8,namecheap,,,09/09/2026 09:55
+6f36c163-650b-42e2-b79f-b0d9e496249d,follows.quest,available,1.24,13.97,high,low,7,spaceship,,,27/09/2026 18:23
 314f5094-e3a5-41c5-87d8-77811d6ce6f4,poorly.quest,available,1.99,17.29,medium,low,6,namesilo,,,25/09/2026 07:34
 2331e48b-25b0-4d5f-8359-c8bd26b5d69a,egyptian.quest,available,1.8,19.98,high,low,8,namecheap,,,15/08/2026 19:52
 ebebbb72-87f7-41b2-99e9-9b51b9853f46,implacable.quest,available,1.8,19.98,medium,low,10,namecheap,,,21/08/2026 22:31
@@ -173,7 +177,7 @@ beacd2c6-1922-43e7-97dd-4b23eb32e309,lucifugous.quest,available,1.8,19.98,low,lo
 cce01583-7e9d-4fec-ab5b-58987879b6ca,flushed.quest,available,1.8,19.98,high,low,7,namecheap,,,18/08/2026 09:26
 b4356ff5-49b4-4c29-8ad4-d8695467be11,shyly.quest,available,1.8,21.98,medium,low,5,namecheap,,,13/09/2026 23:37
 7f2e07f2-7342-4656-8fd5-29961e32a41f,agnes.quest,available,1.99,17.29,high,low,5,namesilo,,,25/09/2026 14:30
-7ab115c1-ee1c-4644-b26a-a9a088416538,mimosa.quest,available,1.8,21.98,high,low,6,namecheap,,,16/09/2026 20:07
+7ab115c1-ee1c-4644-b26a-a9a088416538,mimosa.quest,available,1.8,21.98,medium,low,6,namecheap,,,16/09/2026 20:07
 ed28374b-07de-465f-9f9f-28a33bc8e5b7,aplomb.quest,available,1.8,21.98,high,low,6,namecheap,,,19/09/2026 17:47
 5be3acf8-aa34-4d6a-8239-c48b4cc7a7bc,yid.quest,available,1.8,21.98,medium,low,3,namecheap,,,19/09/2026 16:18
 23ca2953-6782-4658-b567-f7ae6571a192,cents.quest,available,1.8,21.98,medium,low,5,namecheap,,,18/09/2026 18:36
@@ -187,7 +191,7 @@ f8a8aae1-9350-414a-b1d6-1e39342754da,fury.quest,available,1.99,17.29,high,low,4,
 d0c7c8c9-151c-4e59-ba11-bd4bc5f90e2b,rewardful.quest,available,1.8,21.98,medium,low,9,namecheap,,,09/09/2026 16:27
 edd8cd60-ddf8-42ee-b73c-7c2ce0a4fa72,fourteenth.quest,available,1.8,19.98,high,low,10,namecheap,,,
 ab64c6df-bfeb-4a3d-9319-4d70bd1e9d0a,anaheim.quest,available,1.99,17.29,high,low,7,namesilo,,,19/09/2026 01:31
-55c8d1da-6680-4dd7-8eb7-5c7e36abcd03,grantee.quest,available,1.8,21.98,high,low,7,namecheap,,,18/09/2026 07:39
+55c8d1da-6680-4dd7-8eb7-5c7e36abcd03,grantee.quest,available,1.8,21.98,medium,low,7,namecheap,,,18/09/2026 07:39
 4013ad3e-ff8c-4be2-bedb-94c580f06cca,sluicing.quest,available,1.8,21.98,medium,low,8,namecheap,,,10/09/2026 11:31
 086b2177-e245-4e80-ae9b-799a10c9963e,flier.quest,available,1.8,19.98,high,low,5,namecheap,,,11/08/2026 05:10
 72ddd348-0387-40bd-8850-894da8b7011d,thursday.quest,available,1.99,,high,low,8,name.com,,,
@@ -201,7 +205,7 @@ f835cb57-3750-4bc3-95d8-529af1be45d6,evenfall.quest,available,1.8,21.98,medium,l
 f86abbe3-f11f-478f-af93-6ce6952006b0,biomass.quest,available,1.8,21.98,high,low,7,namecheap,,,23/09/2026 18:29
 b4d2d7c1-2b59-4714-bee5-e6d43f08ebfc,from.quest,resell,,,high,low,4,Dynadot Inc,31/08/2026 11:13,31/08/2027 23:59,26/09/2026 06:16
 4a08bf22-4d29-4844-bb91-aaaa7b2c0157,antigua.quest,available,1.8,21.98,high,low,7,namecheap,,,19/09/2026 14:32
-c8d649df-79b2-4283-a0e4-73fd68e847a2,arrested.quest,available,1.8,21.98,high,low,8,namecheap,,,17/09/2026 20:22
+c8d649df-79b2-4283-a0e4-73fd68e847a2,arrested.quest,available,1.8,21.98,medium,low,8,namecheap,,,17/09/2026 20:22
 2b722843-6b07-4854-9781-41fcf0e3b8a0,drawback.quest,available,1.99,17.29,medium,low,8,namesilo,,,24/09/2026 23:54
 9443f4fc-3322-433d-b14b-1e04582a9388,hers.quest,available,1.99,17.29,high,high,4,namesilo,,,26/09/2026 03:23
 cd5d9644-2e16-4e41-9cc1-5ecd1f7aecdd,approved.quest,available,1.8,19.98,high,low,8,namecheap,,,06/08/2026 09:20
@@ -209,16 +213,16 @@ cd5d9644-2e16-4e41-9cc1-5ecd1f7aecdd,approved.quest,available,1.8,19.98,high,low
 6e477a0e-029e-4670-9b72-0d3de9b009ae,yob.quest,available,1.8,19.98,medium,low,3,namecheap,,,11/08/2026 08:46
 fc54d382-adee-4392-9987-6a7ccfe284b9,blattodea.quest,available,1.99,17.29,medium,low,9,namesilo,,,24/09/2026 04:54
 f94315af-00f2-4571-8468-e052243c695f,imbalance.quest,available,1.99,20.99,medium,low,9,name.com,,,20/09/2026 18:40
-33f36e6b-4016-4af4-bd64-6c8bbde143c4,isthmian.quest,available,1.8,19.98,high,low,8,namecheap,,,22/08/2026 11:34
+33f36e6b-4016-4af4-bd64-6c8bbde143c4,isthmian.quest,available,1.8,19.98,medium,low,8,namecheap,,,22/08/2026 11:34
 7ec89ea5-b780-4795-b619-aaa56c70ca90,tennis.quest,premium,812.5,,high,low,6,name.com,,,
 d7f5c6c2-d46b-4db8-a973-762037d86225,unevenly.quest,available,1.8,21.98,medium,low,8,namecheap,,,15/09/2026 22:30
 afa0da37-d012-4412-94a4-cb13435133e1,grecian.quest,available,1.8,19.98,high,low,7,namecheap,,,20/08/2026 19:44
 fffa813a-cf2c-418e-bac0-d6b8cb690850,bellowing.quest,available,1.99,17.29,medium,low,9,namesilo,,,23/09/2026 06:18
 6647b541-845c-4012-88b4-5bbaa95a2b05,riemann.quest,available,1.99,17.29,high,low,7,namesilo,,,23/09/2026 09:54
 62095656-e132-4ad3-b06a-7a91ab9cc578,aspis.quest,available,1.8,21.98,medium,low,5,namecheap,,,20/09/2026 15:24
-84103095-41d0-40d1-8b5d-f22be526b195,revolved.quest,available,1.99,,medium,low,8,name.com,,,
+84103095-41d0-40d1-8b5d-f22be526b195,revolved.quest,available,1.99,14.45,medium,low,8,dynadot,,,27/09/2026 14:41
 cf3d7eb6-1ef9-4567-8648-a26d8b991176,ecuadorian.quest,available,1.8,19.98,high,low,10,namecheap,,,22/08/2026 01:40
-585d1306-f86a-4d92-bfd1-2377833cf158,happiest.quest,available,1.99,17.29,high,low,8,namesilo,,,18/09/2026 04:16
+585d1306-f86a-4d92-bfd1-2377833cf158,happiest.quest,available,1.99,17.29,medium,low,8,namesilo,,,18/09/2026 04:16
 2b064c40-df57-4647-992f-373189206572,mediatory.quest,available,1.8,19.98,medium,low,9,namecheap,,,24/08/2026 18:55
 5db6ce30-8416-4787-acd2-8287d3cb1426,consent.quest,available,1.8,21.98,high,low,7,namecheap,,,08/09/2026 13:17
 3cdd499f-0689-4b3f-b239-402858f37081,moscow.quest,premium,812.5,,high,low,6,name.com,,,
@@ -229,7 +233,7 @@ a3870410-d58a-43c3-a89b-fd9115c2ebf3,anorgasmia.quest,available,1.99,17.29,mediu
 09e833b5-5773-47f8-bf99-26506a21cb27,ibuprofen.quest,available,1.99,17.29,high,low,9,namesilo,,,17/09/2026 11:14
 9e3fc0f3-0d0b-4f0f-8e59-652721f9defd,easier.quest,available,1.99,17.29,high,low,6,namesilo,,,27/09/2026 09:58
 08887c19-570f-4a1b-95e5-296f3abc3abb,keister.quest,available,1.8,19.98,low,low,7,namecheap,,,09/08/2026 11:08
-53e1a5b5-0bb4-4696-b1fb-6d9e939b35f6,drool.quest,available,1.99,17.29,high,low,5,namesilo,,,21/09/2026 23:48
+53e1a5b5-0bb4-4696-b1fb-6d9e939b35f6,drool.quest,available,1.99,17.29,medium,low,5,namesilo,,,21/09/2026 23:48
 9e21ff71-4dc3-4ed3-bf5e-0b06a70b14b6,egotistic.quest,available,1.8,19.98,medium,low,9,namecheap,,,12/08/2026 19:55
 8390bab7-277f-4ab5-9eb2-f4b357c0e1cd,frontal.quest,available,1.8,19.98,high,low,7,namecheap,,,18/08/2026 16:15
 cfe2a360-685c-43ef-bcd5-8864eab5240d,shh.quest,available,1.99,,high,low,3,name.com,,,
@@ -249,7 +253,7 @@ abd8ee2c-342d-43f4-83ff-9e711685dc1a,cooking.quest,premium,812.5,,high,low,7,nam
 2bc1fb6d-aa09-49e8-8049-b48a49fc366f,constraints.quest,available,1.99,17.29,low,low,11,namesilo,,,20/09/2026 23:49
 87a63496-20a0-4e21-8b70-c46327784019,allotted.quest,available,1.8,19.98,high,low,8,namecheap,,,
 2d9f57b8-e70a-4645-bc60-bae34973c542,edmonton.quest,available,1.99,17.29,high,low,8,namesilo,,,25/09/2026 22:33
-5951b73a-b21f-4f5c-8923-480972e98278,adviseable.quest,available,1.99,15.75,high,low,10,namesilo,,,
+5951b73a-b21f-4f5c-8923-480972e98278,adviseable.quest,available,1.99,15.75,medium,low,10,namesilo,,,
 44bf27c6-2f6e-4f69-b3af-1b3f17607849,vein.quest,available,1.99,,high,low,4,name.com,,,
 085fa15c-6eb1-40be-904d-cf4183e7957e,hesperides.quest,available,1.99,17.29,medium,low,10,namesilo,,,20/09/2026 21:44
 ffa67f0c-1c7d-4f75-baf0-bb6e9db66f2f,unhealed.quest,available,1.8,21.98,medium,low,8,namecheap,,,12/09/2026 12:08
@@ -261,7 +265,7 @@ fa26297b-6347-455c-b51c-179934583a33,iphone.quest,premium,2500,,high,high,6,name
 adbb15ad-261b-4904-a780-12b1a709f734,angeles.quest,available,1.99,17.29,high,low,7,namesilo,,,25/09/2026 16:22
 bf8951a2-c062-48ca-b802-10129f9d1fc8,chasing.quest,available,1.99,17.29,high,low,7,namesilo,,,27/09/2026 06:54
 867fc3e1-211f-4e44-a63a-1d9dc254276c,unashamed.quest,available,1.8,21.98,high,low,9,namecheap,,,12/09/2026 01:08
-12100537-cd2e-47cf-9075-90c9819ef188,alcoholism.quest,available,1.99,17.29,high,low,10,namesilo,,,18/09/2026 04:06
+12100537-cd2e-47cf-9075-90c9819ef188,alcoholism.quest,available,1.99,17.29,medium,low,10,namesilo,,,18/09/2026 04:06
 22fbc97d-2b33-4565-af50-73d8e26ef017,tactically.quest,available,1.8,21.98,medium,low,10,namecheap,,,16/09/2026 07:46
 43233ca6-1343-4e73-9354-9e7a40265505,paying.quest,available,1.99,17.29,high,low,6,namesilo,,,24/09/2026 22:11
 677fcb78-71ad-4f6c-9f6e-b6028ac311cc,beachfront.quest,available,1.8,21.98,high,low,10,namecheap,,,22/09/2026 19:04
@@ -287,12 +291,12 @@ e437fc4d-3787-4ef9-8923-07bf5ba045bd,hard.quest,resell,,,high,low,4,"GoDaddy.com
 c6776ae2-05ac-47e4-8043-c4b1e9d9870e,chartless.quest,available,1.8,19.98,medium,low,9,namecheap,,,12/08/2026 02:52
 c4ea41cf-5976-4c3f-882f-2468a8ff4356,california.quest,premium,2500,,high,low,10,name.com,,,
 63a2e424-5019-4b00-a2df-73273c24a31e,bellwether.quest,premium,2660,2660,high,low,10,namesilo,,,23/09/2026 06:30
-b2b0fb8c-d698-4cdd-9697-631d14165f78,antipasto.quest,available,1.99,17.29,high,low,9,namesilo,,,19/09/2026 14:52
+b2b0fb8c-d698-4cdd-9697-631d14165f78,antipasto.quest,available,1.99,17.29,medium,low,9,namesilo,,,19/09/2026 14:52
 0a86eeba-956d-491f-8a77-967a4703a4d7,horary.quest,available,1.8,19.98,medium,low,6,namecheap,,,21/08/2026 13:58
 c2f6d977-b5b9-4bb6-9586-afc85e7344de,vatic.quest,available,1.8,19.98,low,low,5,namecheap,,,14/08/2026 13:52
 706eaf1e-63b3-4ff6-8655-87e7f6fb0e6e,murky.quest,available,1.8,19.98,medium,low,5,namecheap,,,25/08/2026 01:08
 e7c77c9b-bd0c-48b8-a63c-ad81c16dc416,ergo.quest,premium,2600,2600,high,low,4,namecheap,,,14/09/2026 15:56
-db21c722-c03f-41b8-904a-a327e25b072e,unflagging.quest,available,1.8,19.98,high,low,10,namecheap,,,22/08/2026 02:31
+db21c722-c03f-41b8-904a-a327e25b072e,unflagging.quest,available,1.8,19.98,medium,low,10,namecheap,,,22/08/2026 02:31
 f02ccfc5-edca-46bb-a390-85012c413180,punishable.quest,available,1.8,21.98,high,medium,10,namecheap,,,09/09/2026 05:59
 39ff5800-e0ec-46e2-8d50-a21208bf4caa,carrie.quest,available,1.99,15.75,high,low,6,namesilo,,,
 9b75481d-4f97-46ed-bd80-4c9d4739bcca,extrinsic.quest,available,1.8,19.98,medium,low,9,namecheap,,,17/08/2026 19:37
@@ -330,7 +334,7 @@ e0226922-1c37-4241-a161-25bb5e72cda0,unbooked.quest,available,1.8,21.98,medium,l
 b4da673f-5414-42cb-a9de-b8669ff869b0,introduced.quest,available,1.99,,high,low,10,name.com,,,
 861d00c3-9dee-4f3c-90d4-4068e04ff94e,dastardly.quest,available,1.99,20.99,medium,low,9,name.com,,,13/08/2026 18:31
 7140c0c2-4b5a-4f96-bd6c-3ba7df9b1c83,nets.quest,premium,2660,2660,high,high,4,namesilo,,,18/09/2026 06:28
-d80309e1-7ef7-4e9e-a500-ccbf4fdf22b7,musically.quest,available,1.8,21.98,high,low,9,namecheap,,,15/09/2026 15:43
+d80309e1-7ef7-4e9e-a500-ccbf4fdf22b7,musically.quest,available,1.8,21.98,medium,low,9,namecheap,,,15/09/2026 15:43
 3fe0ee0f-a32a-4b58-b095-75d384547c42,hangout.quest,available,1.99,15.75,high,low,8,namesilo,,,
 7d6b4599-27a9-4c74-bb1d-fcfc359fce52,antemortem.quest,available,1.8,19.98,medium,low,10,namecheap,,,
 3a9923ad-142b-4d33-9095-9540fc2663c5,ordered.quest,available,1.8,21.98,high,low,7,namecheap,,,22/09/2026 08:32
@@ -344,16 +348,18 @@ b8458332-f83e-4358-a5d8-2ebfad5d6033,judgement.quest,available,1.99,,high,low,9,
 2cf61a04-2017-4650-99c2-f7545f3d7e1e,filial.quest,available,1.8,19.98,medium,low,6,namecheap,,,18/08/2026 04:17
 5aee6142-e8dd-4cf1-ad05-30568644b311,moderation.quest,available,1.99,,high,low,10,name.com,,,
 9574963a-2906-48a0-aef7-db42c25d73b3,consumption.quest,available,1.99,15.75,high,low,11,namesilo,,,
-50cbedd6-ac36-46e2-a05c-ef89ede836ae,rounds.quest,available,1.99,17.29,high,low,6,namesilo,,,27/09/2026 02:23
+50cbedd6-ac36-46e2-a05c-ef89ede836ae,rounds.quest,available,1.99,17.29,medium,low,6,namesilo,,,27/09/2026 02:23
 13471e9c-3829-4420-bac0-2038bfeb0cce,completing.quest,available,1.99,17.29,high,low,10,namesilo,,,23/09/2026 17:20
 777a609c-cb82-4a08-9003-38abfbac3988,maggie.quest,available,1.99,17.29,high,low,6,namesilo,,,25/09/2026 11:56
 7d4e5ef1-050b-4e02-a987-d51297289009,fearfully.quest,available,1.8,21.98,medium,low,9,namecheap,,,14/09/2026 18:04
+226aabd2-51c2-4148-8420-ee79843bf6b0,mistress.quest,available,1.99,17.29,high,low,8,namesilo,,,27/09/2026 14:35
 93b71685-8ec2-4f20-86ed-ced54599099d,totemic.quest,available,1.8,21.98,medium,low,7,namecheap,,,11/09/2026 18:10
 64df7f3d-4a9b-4e3b-a61a-8ed46406b4ce,gravelly.quest,available,1.8,19.98,medium,low,8,namecheap,,,20/08/2026 18:27
 6e31f7e8-5a81-432f-801e-2b52aeb6a626,nomadic.quest,resell,,,high,low,7,"Spaceship, Inc.",17/02/2026 14:15,17/02/2027 23:59,26/09/2026 07:48
 069d1e73-ae14-4715-8bf2-3b98c553b61d,bland.quest,available,1.99,17.29,medium,low,5,namesilo,,,22/09/2026 21:44
 678d0939-140b-4e46-91f0-cb6586a4ab76,cager.quest,available,1.99,17.29,medium,low,5,namesilo,,,22/09/2026 11:27
-e921d8a7-7dbc-4c11-95fb-bd162cbf84d1,broadly.quest,available,1.99,15.75,high,low,7,namesilo,,,
+e921d8a7-7dbc-4c11-95fb-bd162cbf84d1,broadly.quest,available,1.99,15.75,medium,low,7,namesilo,,,
+46829e2a-713f-45e3-9fac-03c73a182500,putin.quest,premium,2070.2,2070.2,medium,low,5,spaceship,,,28/09/2026 02:59
 13dcd342-099a-4202-b9a5-7c0d884d0d8e,suave.quest,available,1.99,20.99,high,low,5,name.com,,,13/08/2026 20:48
 bbb37019-5472-4b7b-949a-90683fea1ebf,atavistic.quest,available,1.8,19.98,low,low,9,namecheap,,,07/08/2026 12:55
 0e0d7d44-4745-45d9-beed-9356f0e6d90f,affront.quest,available,1.99,17.29,medium,low,7,namesilo,,,17/09/2026 14:54
@@ -371,11 +377,12 @@ b5249390-63d1-4238-b6cd-05a6bfc7d403,fourthly.quest,available,1.8,19.98,medium,l
 ee8ab2d0-b677-4e63-b404-d4c930861c7a,dingdong.quest,available,1.8,21.98,high,low,8,namecheap,,,14/09/2026 12:47
 f8a1d43f-7e1f-4fc6-880d-d2a4dc72d55a,borderline.quest,available,1.99,17.29,high,low,10,namesilo,,,23/09/2026 00:01
 56118679-5330-4ac5-bcc9-12b8000030e4,waxed.quest,available,1.8,21.98,high,low,5,namecheap,,,13/09/2026 08:40
+c9591219-e317-4d0c-add1-dd023c59a1ab,counsel.quest,available,0.99,25.99,high,low,7,godaddy,,,28/09/2026 01:44
 11afc528-a0b0-41bc-b0a4-75c2c962e4e1,prettier.quest,available,1.8,21.98,medium,low,8,namecheap,,,18/09/2026 11:09
 c704e254-77ed-4c96-bc30-7ab66929657b,wondered.quest,available,1.99,,high,low,8,name.com,,,
 e086f39a-2a41-48a5-840b-a0e7814ffc2c,codified.quest,available,1.8,19.98,medium,low,8,namecheap,,,12/08/2026 15:19
 0b9eb14e-e100-4eb3-b0b2-ca13db09fcce,stemless.quest,available,1.8,19.98,medium,low,8,namecheap,,,
-03b350fe-e06c-43f3-8466-6561af9d58c8,aquila.quest,available,1.99,17.29,high,low,6,namesilo,,,19/09/2026 23:12
+03b350fe-e06c-43f3-8466-6561af9d58c8,aquila.quest,available,1.99,17.29,medium,low,6,namesilo,,,19/09/2026 23:12
 9e2038f8-0db8-4c60-b34b-f58846de1b8b,offending.quest,available,1.8,21.98,medium,low,9,namecheap,,,04/09/2026 01:28
 5354d38a-f416-4575-9562-68682642f158,gene.quest,resell,,,high,low,4,"Spaceship, Inc.",04/07/2025 08:40,04/07/2027 23:59,26/09/2026 06:20
 48f3e4a7-0f87-4bb6-a5d4-8468a2ff65ea,shockingly.quest,available,1.8,21.98,medium,low,10,namecheap,,,16/09/2026 01:31
@@ -421,7 +428,7 @@ b967a0ab-c4ef-4dd7-b4cc-f269ba816100,intuitions.quest,available,1.8,21.98,medium
 5dbb565c-c2a6-44fb-ae0b-a8da0fad7224,pharmacist.quest,available,1.99,,high,low,10,name.com,,,
 b3029d80-bce9-4bcc-907a-7dc4abc1c64b,carthage.quest,available,1.99,17.29,medium,low,8,namesilo,,,25/09/2026 04:02
 b70255cb-67b5-4c22-ae51-33fe8e26824d,solferino.quest,available,1.99,17.29,medium,low,9,namesilo,,,22/09/2026 15:59
-5ce09603-4340-401c-b0b8-0dc43d2dbe2b,klaus.quest,resell,,,high,low,5,,,,27/09/2026 01:38
+5ce09603-4340-401c-b0b8-0dc43d2dbe2b,klaus.quest,resell,,,medium,low,5,,,,27/09/2026 01:38
 a9f94551-f088-49fd-aca5-adb7b055f8dc,basra.quest,available,1.99,17.29,medium,low,5,namesilo,,,22/09/2026 10:33
 15c2a1a1-5a38-4644-8782-798295e1021b,notional.quest,available,1.8,19.98,high,low,8,namecheap,,,12/08/2026 20:01
 21daa4af-ee11-422c-838b-a37a0c667dba,venereal.quest,available,1.8,19.98,medium,low,8,namecheap,,,18/08/2026 21:42
@@ -429,12 +436,12 @@ a9f94551-f088-49fd-aca5-adb7b055f8dc,basra.quest,available,1.99,17.29,medium,low
 2e9d5332-8c44-49e2-9454-3fa59d1d89a3,ebionite.quest,available,1.8,19.98,medium,low,8,namecheap,,,14/08/2026 23:04
 3c36663c-61c6-42f4-bbf7-fad2a4721ee4,singhalese.quest,available,1.8,21.98,high,medium,10,namecheap,,,10/09/2026 08:21
 36c7d2e9-0ee8-4b82-93b5-85a4ced56e5f,pragmatic.quest,resell,,,high,low,9,"Spaceship, Inc.",21/02/2026 16:15,21/02/2027 23:59,26/09/2026 08:17
-ddf1ae6b-483f-4245-80c2-2670180d5349,costumed.quest,available,1.8,19.98,high,low,8,namecheap,,,13/08/2026 03:18
+ddf1ae6b-483f-4245-80c2-2670180d5349,costumed.quest,available,1.8,19.98,medium,low,8,namecheap,,,13/08/2026 03:18
 0b263d95-d416-45d9-a888-0bbe6e1d3fdd,desired.quest,available,1.99,17.29,high,low,7,namesilo,,,24/09/2026 00:57
 d2f10ced-de32-4a29-b7d2-da20c1cc8310,kike.quest,available,1.8,21.98,high,medium,4,namecheap,,,10/09/2026 06:15
 53fe1930-8eae-432c-aa50-cf9ab405b818,comforts.quest,available,1.8,21.98,high,low,8,namecheap,,,18/09/2026 18:50
 4a3dbafc-0ead-4a7f-bf85-d343a7585247,amon.quest,available,1.8,21.98,high,low,4,namecheap,,,18/09/2026 18:27
-f6b53a94-dc60-4b61-b139-4042de881563,liberally.quest,available,1.8,21.98,high,low,9,namecheap,,,14/09/2026 21:12
+f6b53a94-dc60-4b61-b139-4042de881563,liberally.quest,available,1.8,21.98,medium,low,9,namecheap,,,14/09/2026 21:12
 fa62cba7-3e4a-4947-8f0b-8cbec03821c6,smarmy.quest,available,1.8,19.98,medium,low,6,namecheap,,,11/08/2026 11:46
 48686f61-454f-4749-be67-1b7b78bae232,grotty.quest,available,1.8,19.98,medium,low,6,namecheap,,,20/08/2026 20:20
 33606f4b-9e3b-4359-9b27-a04fb626379e,damp.quest,available,1.99,20.99,medium,low,4,name.com,,,13/08/2026 16:39
@@ -466,7 +473,7 @@ e1b9c659-ddf6-4397-8530-3960548d75a6,warty.quest,available,1.8,21.98,medium,low,
 69ffdb19-3449-477d-a870-f1e0be743bcc,subocean.quest,available,1.8,21.98,medium,low,8,namecheap,,,11/09/2026 00:32
 877df0e2-ea20-44fa-aa0a-e27fc61ea00c,unbarred.quest,available,1.8,21.98,medium,low,8,namecheap,,,12/09/2026 01:34
 c17305be-5f76-4d50-b0bc-0ff80db16889,document.quest,available,1.99,15.75,high,low,8,namesilo,,,
-e064eb76-bfbb-4cc6-bf15-10f35bd22636,biotite.quest,available,1.8,21.98,high,low,7,namecheap,,,23/09/2026 19:13
+e064eb76-bfbb-4cc6-bf15-10f35bd22636,biotite.quest,available,1.8,21.98,medium,low,7,namecheap,,,23/09/2026 19:13
 07e7c86e-b5aa-476b-ba06-2a19df4a05bb,stripe.quest,premium,2660,2660,high,low,6,namesilo,,,24/09/2026 14:22
 19709a36-0786-466e-9386-8764260b3471,leukaemia.quest,available,1.99,17.29,medium,low,9,namesilo,,,24/09/2026 11:59
 376f5428-de99-477b-9bb8-757a06e72855,freakish.quest,available,1.8,19.98,high,low,8,namecheap,,,10/08/2026 09:56
@@ -503,7 +510,7 @@ a99b574f-92af-4013-adc9-ad9a3fb6de08,promethium.quest,available,1.99,17.29,mediu
 7a816891-d661-4cc7-9eba-490acdaf1739,oblique.quest,available,1.8,19.98,high,low,7,namecheap,,,14/08/2026 05:11
 6b92454a-34fa-4d35-a5ae-2db73d2238a7,empty.quest,available,1.99,17.29,high,low,5,namesilo,,,24/09/2026 13:56
 59d9996b-d1da-4e19-9a65-38fc2500a984,audibility.quest,available,1.99,17.29,medium,low,10,namesilo,,,21/09/2026 02:52
-38f3465f-bb54-4fbf-b547-43b81fb0b84a,edwin.quest,available,1.99,17.29,high,low,5,namesilo,,,25/09/2026 05:17
+38f3465f-bb54-4fbf-b547-43b81fb0b84a,edwin.quest,available,1.99,17.29,medium,low,5,namesilo,,,25/09/2026 05:17
 91fcac60-2ed0-4cd1-921f-8bf60c2e055b,earthlike.quest,available,1.8,19.98,medium,low,9,namecheap,,,14/08/2026 22:40
 72eda000-c3cc-4120-9fce-7a592a929263,tanzanian.quest,available,1.8,21.98,medium,low,9,namecheap,,,11/09/2026 08:09
 d2d2dc00-6370-4efb-9aad-4890ffe95e59,annex.quest,available,1.99,15.75,high,low,5,namesilo,,,
@@ -512,7 +519,7 @@ d2d2dc00-6370-4efb-9aad-4890ffe95e59,annex.quest,available,1.99,15.75,high,low,5
 4e22265d-ba52-4f95-8588-dbb11d76d2f2,unco.quest,available,1.8,21.98,high,low,4,namecheap,,,15/09/2026 23:08
 1e753e80-5423-4b94-b5d3-3d146fe45123,licit.quest,available,1.8,19.98,medium,low,5,namecheap,,,23/08/2026 00:58
 16429d6a-f422-4a12-ae38-9d13156417fd,jument.quest,available,1.8,21.98,medium,low,6,namecheap,,,22/09/2026 21:27
-3c880106-5f2e-408f-833a-1ece439cd8b3,disclosed.quest,available,1.99,17.29,high,low,9,namesilo,,,24/09/2026 11:06
+3c880106-5f2e-408f-833a-1ece439cd8b3,disclosed.quest,available,1.99,17.29,medium,low,9,namesilo,,,24/09/2026 11:06
 e5c2d17d-d47f-4eda-bb8f-8edabb1264a9,fellowships.quest,available,1.99,17.29,medium,low,11,namesilo,,,21/09/2026 08:52
 86752fc6-f616-4f4c-9970-309a92ff4ba7,palatial.quest,available,1.8,21.98,high,low,8,namecheap,,,04/09/2026 23:22
 e887e9af-f589-4223-9df6-ecef87c84ed9,demented.quest,available,1.8,19.98,medium,low,8,namecheap,,,11/08/2026 01:46
@@ -521,7 +528,7 @@ a7e9e45e-c65c-46d6-8d94-f1edfd51911e,stuttgart.quest,available,1.99,17.29,high,l
 89a38970-04e0-4ab5-8cb9-4c59bfff9aed,dong.quest,premium,812.5,,high,low,4,name.com,,,
 57bb33af-88ee-47ae-a61e-630ab93f259e,silverbush.quest,available,1.99,17.29,medium,low,10,namesilo,,,19/09/2026 14:04
 8c6d08a4-b9d0-4170-b3df-2670a844d5e5,angina.quest,available,1.99,17.29,medium,low,6,namesilo,,,19/09/2026 06:08
-5e312fb3-ae66-4383-9477-fd777bd2b5bc,thug.quest,available,1.8,21.98,high,low,4,namecheap,,,27/09/2026 08:15
+5e312fb3-ae66-4383-9477-fd777bd2b5bc,thug.quest,available,1.8,21.98,medium,low,4,namecheap,,,27/09/2026 08:15
 8926297f-e8d0-44d4-a974-af03475aa52d,conducted.quest,available,1.99,15.75,medium,low,9,namesilo,,,
 29fee744-b506-4e13-85e5-a07a8e3e587d,coolly.quest,available,1.99,15.75,medium,low,6,namesilo,,,
 dc3df824-4efd-48d2-8093-63ad628ca1b4,dollar.quest,premium,2500,,high,low,6,name.com,,,
@@ -544,16 +551,16 @@ c0fb02b1-04c8-4fd8-a226-3878918b87a5,montgomery.quest,available,1.8,21.98,high,l
 d3262a4f-cecf-4fe4-8084-b3fd12ec437d,mistrust.quest,available,1.99,17.29,high,low,8,namesilo,,,24/09/2026 23:12
 e0320eab-d4ae-454f-8866-12e21891b121,drudgery.quest,available,1.8,21.98,medium,low,8,namecheap,,,08/09/2026 21:19
 8f7fa76b-067c-4554-b7f1-fa9d61dc7794,woven.quest,resell,,,high,low,5,Dynadot Inc,02/02/2026 02:14,02/02/2027 23:59,26/09/2026 10:14
-f526fac4-c4b3-49eb-8355-361028ea9930,art.quest,premium,2500,2500,high,medium,3,name.com,,,25/09/2026 08:53
+f526fac4-c4b3-49eb-8355-361028ea9930,art.quest,premium,2660,2660,high,medium,3,namesilo,,,28/09/2026 02:35
 27696fb2-31dd-42ee-9fcb-f9291c739655,assistance.quest,available,1.99,17.29,high,low,10,namesilo,,,17/09/2026 20:44
 0c8258bc-9e2a-44a6-8fd4-5454eb496981,extinct.quest,available,1.8,19.98,high,low,7,namecheap,,,17/08/2026 19:11
-12c49424-d99d-4827-89a7-7288e53787b2,sequester.quest,available,1.8,19.98,high,low,9,namecheap,,,12/08/2026 21:06
+12c49424-d99d-4827-89a7-7288e53787b2,sequester.quest,available,1.8,19.98,medium,low,9,namecheap,,,12/08/2026 21:06
 9fe57ed9-3815-454c-a91f-c7c7d9ce2a36,ambo.quest,available,1.99,17.29,medium,low,4,namesilo,,,18/09/2026 17:17
 cf752dd2-6c72-400b-95d7-38ab2130ecff,refused.quest,available,1.99,17.29,medium,low,7,namesilo,,,18/09/2026 13:40
 6261c071-be18-4555-85ee-2d85038a3ac8,amylase.quest,available,1.99,17.29,medium,low,7,namesilo,,,19/09/2026 00:30
 a22af5f7-e0b6-4da0-aed4-314ce8a11907,toddler.quest,available,1.99,,high,low,7,name.com,,,
 abf53849-5457-4211-a0cf-35bb02de4360,doric.quest,available,1.8,19.98,medium,low,5,namecheap,,,14/08/2026 16:13
-bbd63678-5fd3-4da2-81f5-544dcd56dc61,arming.quest,available,1.99,17.29,high,low,6,namesilo,,,20/09/2026 07:11
+bbd63678-5fd3-4da2-81f5-544dcd56dc61,arming.quest,available,1.99,17.29,medium,low,6,namesilo,,,20/09/2026 07:11
 7b86223b-0d44-4fb8-b48b-447549abdea3,worded.quest,available,1.99,17.29,medium,low,6,namesilo,,,20/09/2026 15:04
 a293c32e-11b1-4b5a-8f7f-d0f72f4a3ab2,termed.quest,available,1.99,17.29,medium,low,6,namesilo,,,19/09/2026 00:21
 9a7eb4ab-7298-4729-9ed6-cda564a06702,juridical.quest,available,1.8,19.98,medium,low,9,namecheap,,,22/08/2026 14:40
@@ -568,7 +575,7 @@ b1fdc673-8b5e-4d06-9e10-09a9d9979074,truth.quest,resell,,,high,medium,5,"Spacesh
 0ea921d5-1d06-45b2-a591-ef66e1ae0292,backstay.quest,available,1.99,17.29,medium,low,8,namesilo,,,21/09/2026 16:03
 a73e924c-1800-44a4-a0a4-c5bbeec35642,motivating.quest,available,1.8,19.98,high,low,10,namecheap,,,25/08/2026 07:36
 01259ced-b8b4-40d5-bea9-634f58fddbe7,equitably.quest,available,1.8,21.98,medium,low,9,namecheap,,,14/09/2026 15:54
-44091d42-9580-4d95-91ed-b5d932de3c61,dripping.quest,available,1.8,21.98,high,low,8,namecheap,,,14/09/2026 14:32
+44091d42-9580-4d95-91ed-b5d932de3c61,dripping.quest,available,1.8,21.98,medium,low,8,namecheap,,,14/09/2026 14:32
 33f8e2b0-8401-47c9-924a-a2467a60a086,pope.quest,premium,812.5,,high,low,4,name.com,,,
 3573d71c-9e41-4704-81d9-6624b16f8f2c,apartment.quest,premium,2660,2660,high,low,9,namesilo,,,19/09/2026 16:17
 771e0055-7619-4755-a816-998157f571b4,birdsong.quest,available,1.8,21.98,high,low,8,namecheap,,,23/09/2026 20:37
@@ -599,7 +606,7 @@ c234c2cb-58d0-4177-9476-d7d923be6517,uttermost.quest,available,1.8,19.98,high,lo
 f32a8a0e-9f03-49dc-a1f3-f25b901381e8,pose.quest,available,1.8,19.98,high,low,4,namecheap,,,22/08/2026 21:29
 fd5a3d5c-2e13-4568-bd84-a554208a1fb1,allegation.quest,available,1.99,17.29,high,low,10,namesilo,,,18/09/2026 10:09
 dcf4f474-7203-4bc4-85bb-28e7667c70a7,gentile.quest,available,1.8,19.98,high,low,7,namecheap,,,18/08/2026 21:53
-281ce274-5dae-410e-9a7a-9355064f10b8,pyramidal.quest,available,1.8,21.98,high,low,9,namecheap,,,09/09/2026 06:55
+281ce274-5dae-410e-9a7a-9355064f10b8,pyramidal.quest,available,1.8,21.98,medium,low,9,namecheap,,,09/09/2026 06:55
 5184ae35-e81f-4e0b-a5d6-2d3dd29bfdab,bacteria.quest,available,1.99,17.29,high,low,8,namesilo,,,21/09/2026 16:28
 bdbe3422-b3ef-4476-9f0b-732c22c5ddee,boreal.quest,available,1.8,19.98,high,low,6,namecheap,,,10/08/2026 19:55
 09a40971-1913-426a-8d87-c021d30ea289,alienated.quest,available,1.8,19.98,medium,low,9,namecheap,,,
@@ -615,9 +622,9 @@ c3defbae-490b-4496-8d9b-a75717170a4c,departed.quest,available,1.8,19.98,medium,l
 bcefbf28-e75e-4457-8e96-c185deafb5f8,koran.quest,available,1.8,21.98,high,low,5,namecheap,,,18/09/2026 01:04
 58bc0977-7c6a-4a77-989a-b877c9dc88c7,roarer.quest,available,1.99,17.29,medium,low,6,namesilo,,,22/09/2026 16:57
 e29d0f7e-5d0a-49a4-a49c-762bab9bca54,diabolical.quest,available,1.8,19.98,medium,low,10,namecheap,,,14/08/2026 01:30
-f207c9e9-d340-4799-b0fe-b7f01c90d8fc,commodious.quest,available,1.8,19.98,high,low,10,namecheap,,,12/08/2026 19:10
+f207c9e9-d340-4799-b0fe-b7f01c90d8fc,commodious.quest,available,1.8,19.98,medium,low,10,namecheap,,,12/08/2026 19:10
 d33c503b-e2be-489d-a693-6e713f99ddf4,peed.quest,available,1.99,17.29,medium,low,4,namesilo,,,18/09/2026 08:17
-db78178c-e525-4b71-b881-63ffa63c37b4,videos.quest,premium,2600,2600,high,low,6,namecheap,,,25/09/2026 06:20
+db78178c-e525-4b71-b881-63ffa63c37b4,videos.quest,premium,2660,2660,medium,low,6,namesilo,,,28/09/2026 03:36
 e03b7ad5-1298-46f7-97a3-2a5dcdd28ddb,lip.quest,premium,812.5,,high,low,3,name.com,,,
 4f53e36c-b86e-4dd0-b9e0-e2e0af45f399,search.quest,premium,2500,,high,medium,6,name.com,,,
 bf98695a-2a5b-4f0b-9884-cdf7cfb6c773,harrison.quest,available,1.99,17.29,high,low,8,namesilo,,,23/09/2026 08:20
@@ -636,7 +643,7 @@ ec72a948-02a1-4bc1-929c-94a60f322725,fascinating.quest,available,1.99,,high,low,
 0d393db6-60c7-4aa7-bc99-2bf17c0d657e,punkie.quest,available,1.99,17.29,medium,low,6,namesilo,,,23/09/2026 22:31
 36244136-4ac1-4eb9-92af-c1b0fe04c0a0,upraised.quest,available,1.8,19.98,medium,low,8,namecheap,,,23/08/2026 01:53
 9e6a38b1-4502-4787-b09d-5af2d02fc0a8,uninvited.quest,available,1.8,21.98,medium,low,9,namecheap,,,12/09/2026 13:33
-f3f6702b-a201-4b6d-98c2-e559ba55e55c,anointing.quest,available,1.8,21.98,high,low,9,namecheap,,,19/09/2026 11:19
+f3f6702b-a201-4b6d-98c2-e559ba55e55c,anointing.quest,available,1.8,21.98,medium,low,9,namecheap,,,19/09/2026 11:19
 68ffa992-41df-4b90-a4d1-11169b6705bf,supersize.quest,available,1.99,,high,low,9,name.com,,,
 6dec2a1d-bc65-4311-9f4a-414191be3725,lighten.quest,available,1.99,,high,low,7,name.com,,,
 90555e60-c848-4917-85e9-04c09b75e758,invitation.quest,available,1.99,,high,low,10,name.com,,,
@@ -646,6 +653,7 @@ f3f6702b-a201-4b6d-98c2-e559ba55e55c,anointing.quest,available,1.8,21.98,high,lo
 60bf2dcf-504b-4448-a81a-f98789c3406a,marines.quest,available,1.99,,high,low,7,name.com,,,
 fc1481a3-37d6-4254-ade0-5a64a44d279a,odds.quest,resell,,,high,low,4,"GoDaddy.com, LLC",13/09/2021 03:10,13/09/2027 23:59,26/09/2026 07:51
 250d96ec-619f-42e9-89fc-608e51e28d9f,valorous.quest,available,1.8,21.98,high,low,8,namecheap,,,13/09/2026 00:57
+12b054ce-151a-4c87-883c-f9e06b7aea80,emblem.quest,available,1.54,14.21,high,low,6,porkbun,,,28/09/2026 02:43
 c3117a22-73e1-469b-af85-0b9fab7b3236,unoriginal.quest,available,1.8,21.98,medium,low,10,namecheap,,,12/09/2026 16:21
 8fb875f3-9e0d-4de7-9828-e5ecf3ae4006,halt.quest,available,1.99,17.29,high,low,4,namesilo,,,24/09/2026 01:49
 3011f2f9-26ca-46dc-b071-c7c15d97d8a9,jadestone.quest,available,1.8,19.98,medium,low,9,namecheap,,,22/08/2026 11:54
@@ -664,17 +672,17 @@ c00bb909-4ad4-4f89-a2c9-f58d75d30ad2,taxation.quest,available,1.99,,high,low,8,n
 a5a3eed6-d300-4540-aae7-ffa9c70a6fd2,spouse.quest,available,1.99,17.29,high,low,6,namesilo,,,23/09/2026 11:39
 4298c8dc-3619-4cb1-a108-e5fef23bf189,abortus.quest,available,1.8,21.98,medium,low,7,namecheap,,,16/09/2026 16:40
 e8ae0370-9c8b-45e2-bbbe-fa9b68e97f45,counseled.quest,available,1.99,17.29,medium,low,9,namesilo,,,20/09/2026 16:45
-ea62a81f-a127-44a6-aea2-8c6943f173eb,technologies.quest,available,1.8,21.98,high,low,12,namecheap,,,25/09/2026 02:50
+ea62a81f-a127-44a6-aea2-8c6943f173eb,technologies.quest,available,1.99,17.29,high,low,12,namesilo,,,28/09/2026 03:08
 ae8cbd04-b6fb-45aa-8597-8435f5c6e6b0,hairdryers.quest,available,1.8,21.98,medium,low,10,namecheap,,,20/09/2026 13:02
 6daf5115-d746-4256-96cb-ccee85644305,devour.quest,available,1.99,15.75,high,low,6,namesilo,,,
 0b963e3f-e8cf-4197-8a4b-cb2c46f9a7c3,calculable.quest,available,1.8,19.98,medium,low,10,namecheap,,,11/08/2026 13:54
 d3c4396d-0993-4312-bd38-a744527163ce,bribable.quest,available,1.8,19.98,low,low,8,namecheap,,,11/08/2026 03:42
 d74f2a3a-44c3-46d8-a2b8-40adc675965f,noseless.quest,available,1.8,21.98,low,low,8,namecheap,,,03/09/2026 21:47
-de9ccb52-f7c5-4f1c-b5c3-fe3dcb23f55c,adobo.quest,available,1.99,17.29,high,low,5,namesilo,,,17/09/2026 09:29
+de9ccb52-f7c5-4f1c-b5c3-fe3dcb23f55c,adobo.quest,available,1.99,17.29,medium,low,5,namesilo,,,17/09/2026 09:29
 8b45f2f8-febc-478b-93f2-824905bc41c3,axone.quest,available,1.8,21.98,high,low,5,namecheap,,,21/09/2026 10:31
 c105d422-11a8-4215-83a1-2d68581683eb,nonsense.quest,available,1.8,19.98,high,low,8,namecheap,,,18/08/2026 23:48
 9b546861-28d4-432d-8578-92532513fc49,stability.quest,available,1.99,,high,low,9,name.com,,,
-d0659038-8bff-449a-9799-fcbdbbe9c061,disuse.quest,available,1.99,17.29,high,low,6,namesilo,,,24/09/2026 23:14
+d0659038-8bff-449a-9799-fcbdbbe9c061,disuse.quest,available,1.99,17.29,medium,low,6,namesilo,,,24/09/2026 23:14
 b7a67be4-e037-43f9-b7c3-c1644a195ab3,pedant.quest,available,1.8,21.98,medium,low,6,namecheap,,,09/09/2026 23:15
 c2c828af-fcbe-4d60-8412-9d5a115e4b18,deviant.quest,available,1.8,19.98,high,low,7,namecheap,,,
 d8c0403c-8f1b-4a10-85b0-541e9334ddaa,walden.quest,available,1.8,21.98,high,low,6,namecheap,,,27/09/2026 08:12
@@ -706,8 +714,9 @@ c4f00ed8-886d-423f-99f3-90a2a647afb8,antiquark.quest,available,1.99,17.29,medium
 07ca4c12-5572-45a5-8081-43185d0a889f,aliquot.quest,available,1.8,19.98,medium,low,7,namecheap,,,
 0b961567-7ced-41f8-8fe8-c1e0b029d3ee,hawkish.quest,available,1.8,19.98,medium,low,7,namecheap,,,21/08/2026 01:38
 8c41b8a7-5d12-4977-a89a-d2ac8a67b0a7,assuredly.quest,available,1.8,21.98,medium,low,9,namecheap,,,13/09/2026 22:09
-da9f4833-ae87-438c-a9ad-146d15811973,grinning.quest,available,1.99,15.75,high,low,8,namesilo,,,
-1234205c-32e7-470c-bc35-8e9dcc42d1e2,remains.quest,available,1.99,17.29,high,low,7,namesilo,,,27/09/2026 03:27
+da9f4833-ae87-438c-a9ad-146d15811973,grinning.quest,available,1.99,17.29,high,low,8,namesilo,,,27/09/2026 23:14
+d21d1478-f27d-4146-b8a5-cfa31934af0f,necklace.quest,available,1.99,17.29,high,low,8,namesilo,,,27/09/2026 14:59
+1234205c-32e7-470c-bc35-8e9dcc42d1e2,remains.quest,available,1.99,17.29,medium,low,7,namesilo,,,27/09/2026 03:27
 61037e9a-82b2-45cb-b395-f57601b74dfe,himalayan.quest,available,1.8,19.98,high,low,9,namecheap,,,21/08/2026 09:25
 c83078cd-8ed3-41fa-aab5-6dbcbb246edd,discarded.quest,available,1.8,19.98,medium,low,9,namecheap,,,11/08/2026 20:21
 48693a5c-f35d-4706-a813-c62966ccb100,braced.quest,available,1.8,19.98,medium,low,6,namecheap,,,11/08/2026 00:17
@@ -717,15 +726,16 @@ c83078cd-8ed3-41fa-aab5-6dbcbb246edd,discarded.quest,available,1.8,19.98,medium,
 efdcf0af-6831-4c7d-97d2-82907f102f15,upmarket.quest,available,1.8,21.98,high,low,8,namecheap,,,12/09/2026 23:13
 a567d701-7461-4881-a14a-348d5911effe,placed.quest,available,1.99,17.29,high,low,6,namesilo,,,25/09/2026 14:13
 4950db7b-665a-425b-aec5-cb4fe072acb7,silvery.quest,available,1.8,19.98,high,low,7,namecheap,,,06/08/2026 17:56
-fd81f39f-531d-484d-a3e0-8ad1557ef67e,desperate.quest,available,1.8,19.98,high,low,9,namecheap,,,14/08/2026 03:58
+fd81f39f-531d-484d-a3e0-8ad1557ef67e,desperate.quest,available,1.8,19.98,medium,low,9,namecheap,,,14/08/2026 03:58
 e3ad7efb-8445-47ed-9956-4a8ea2d54af6,limestone.quest,available,1.99,,high,low,9,name.com,,,
 b86b6d8e-4cb8-4567-953a-33e4f18dda4a,arresting.quest,available,1.8,19.98,high,low,9,namecheap,,,06/08/2026 21:47
 1e7af79b-6833-47d8-86e1-a6791e0f2f7b,gallant.quest,available,1.8,19.98,high,low,7,namecheap,,,12/08/2026 06:16
 7ee82467-8153-44b0-9942-9afd22df32d4,cushy.quest,available,1.8,19.98,high,low,5,namecheap,,,13/08/2026 11:58
-c822b1e1-9f5f-4668-8f92-019df37eeacb,visually.quest,available,1.99,17.29,high,low,8,namesilo,,,16/09/2026 11:04
+c822b1e1-9f5f-4668-8f92-019df37eeacb,visually.quest,available,1.99,17.29,medium,low,8,namesilo,,,16/09/2026 11:04
 fdaeccbd-400c-4435-947a-15c07a261a41,albizzia.quest,available,1.8,21.98,medium,low,8,namecheap,,,18/09/2026 03:00
 aa22455b-d1f1-49af-a5a0-a9c2f8e83574,ostensive.quest,available,1.8,21.98,medium,low,9,namecheap,,,04/09/2026 18:31
 35d09987-adf0-4aae-9229-bef1c5f20cc2,nearer.quest,available,1.99,,medium,low,6,name.com,,,
+1d0885c8-8e8c-4c4b-a5ef-19d7efd8cc0c,passage.quest,available,1.24,13.97,high,low,7,spaceship,,,27/09/2026 13:23
 76fd3672-8b13-4c79-a27e-fe6a1fb438a6,conk.quest,available,1.8,19.98,medium,low,4,namecheap,,,17/08/2026 21:08
 184107ef-66c8-4a0e-968d-9c3cab0c2c3b,dissembler.quest,available,1.8,21.98,medium,low,10,namecheap,,,08/09/2026 19:10
 f19460cc-8529-425a-9e43-18c350c42a59,axseed.quest,available,1.99,17.29,medium,low,6,namesilo,,,21/09/2026 10:31
@@ -745,7 +755,7 @@ bb9cec79-5a36-4a4a-87cb-8ccc7dad9b4e,beanfeast.quest,available,1.8,21.98,medium,
 70e62d13-48ad-4ada-a3cd-6778cc2c3b31,haywire.quest,available,1.8,19.98,medium,low,7,namecheap,,,
 778b3c8d-6126-4beb-9e16-c792fe0275ee,scourge.quest,available,1.8,19.98,medium,low,7,namecheap,,,18/08/2026 06:16
 d595ee6b-32d8-4703-83fb-0e48550f6c48,outlawed.quest,available,1.8,19.98,medium,low,8,namecheap,,,21/08/2026 19:52
-e6d68845-2dcf-4330-8245-fc5b4475db0d,wentworth.quest,available,1.99,17.29,high,low,9,namesilo,,,25/09/2026 21:47
+e6d68845-2dcf-4330-8245-fc5b4475db0d,wentworth.quest,available,1.99,17.29,medium,low,9,namesilo,,,25/09/2026 21:47
 a16bcf2e-af15-49f8-babe-ae39473565fd,thumb.quest,available,1.99,17.29,high,low,5,namesilo,,,25/09/2026 22:48
 429c1090-8650-4060-81d4-cab3eded86c2,unasked.quest,available,1.8,21.98,medium,low,7,namecheap,,,12/09/2026 01:10
 4302e08a-ae2e-4a5f-8d67-ffdf26077600,mistaken.quest,available,1.8,19.98,medium,low,8,namecheap,,,25/08/2026 01:52
@@ -755,17 +765,18 @@ cd3de504-5f26-4d78-8f37-7e06aea81b40,compulsory.quest,available,1.8,21.98,high,l
 bd8d0617-a4e3-4116-9545-0bcc2e78c52b,unbolted.quest,available,1.8,21.98,medium,low,8,namecheap,,,12/09/2026 01:36
 657592bb-d922-4b90-b2ec-ee97e5170d86,barebacked.quest,available,1.8,19.98,medium,low,10,namecheap,,,08/08/2026 18:44
 cb690f95-8446-460e-867a-094bc2d61f22,erwin.quest,available,1.99,17.29,high,low,5,namesilo,,,27/09/2026 01:41
+48996770-cb8a-40c4-a262-1925245e5580,instructor.quest,available,1.99,17.29,high,low,10,namesilo,,,28/09/2026 02:10
 722d42b7-06c1-4d77-a638-038dbe0a185f,corona.quest,premium,2500,,high,medium,6,name.com,,,
 3cb4d878-65e3-40b5-81e3-628d05740e82,industrialize.quest,available,1.99,,medium,low,13,name.com,,,
 087f3783-b932-471f-936e-48e69eea94ed,gladiola.quest,available,1.8,19.98,medium,low,8,namecheap,,,19/08/2026 00:09
 c6fb3027-5666-4c25-9d7d-aec4a47858a9,genitive.quest,available,1.8,19.98,medium,low,8,namecheap,,,18/08/2026 21:46
 d060ed57-21dc-4f2a-88d0-7b98d3723b06,accumulate.quest,available,1.8,19.98,high,low,10,namecheap,,,12/08/2026 16:47
-70d7039e-dbef-4f6b-bfff-1e4fa1b35f40,xxiii.quest,available,1.8,19.98,high,low,5,namecheap,,,
+70d7039e-dbef-4f6b-bfff-1e4fa1b35f40,xxiii.quest,available,1.8,19.98,medium,low,5,namecheap,,,
 f9bde98f-ab19-4d94-b72c-e1bce978ce1a,dashingly.quest,available,1.8,21.98,medium,low,9,namecheap,,,14/09/2026 10:41
 b61cbdb5-0886-4fe3-9e27-37da8b28fcdb,copasetic.quest,available,1.8,19.98,medium,low,9,namecheap,,,13/08/2026 00:20
 c8696758-ffe0-4602-8acf-2c21d43e5f94,alopex.quest,available,1.8,21.98,medium,low,6,namecheap,,,18/09/2026 13:19
 1ef4361f-a740-4f1e-8674-c51640aeff67,alkali.quest,available,1.99,17.29,high,low,6,namesilo,,,18/09/2026 08:16
-1e47c4c9-23df-497b-94bb-1164d1eba87e,streamed.quest,available,1.8,21.98,high,low,8,namecheap,,,20/09/2026 17:18
+1e47c4c9-23df-497b-94bb-1164d1eba87e,streamed.quest,available,1.99,14.45,high,low,8,dynadot,,,28/09/2026 03:37
 e259fa1c-36c5-4f83-95d5-baceb9fbd3ba,failing.quest,available,1.8,19.98,medium,low,7,namecheap,,,17/08/2026 20:44
 33cbbada-9f28-4e27-b637-7d7ae5901a4e,tricksy.quest,available,1.8,19.98,medium,low,7,namecheap,,,13/08/2026 04:36
 7ac2392f-34cb-473a-bbbb-c62fc99ce726,yemeni.quest,available,1.8,21.98,high,low,6,namecheap,,,13/09/2026 14:34
@@ -782,8 +793,8 @@ e259fa1c-36c5-4f83-95d5-baceb9fbd3ba,failing.quest,available,1.8,19.98,medium,lo
 45c79b43-b8f5-45a0-ace9-f34f2c5698f6,proceed.quest,available,1.99,,high,low,7,name.com,,,
 768ef753-0922-4053-bfe8-35ad23bf409b,appraisal.quest,available,1.99,17.29,high,low,9,namesilo,,,19/09/2026 22:07
 a6a0c398-4aad-4777-b127-273e5a411a78,hateful.quest,available,1.8,19.98,medium,low,7,namecheap,,,21/08/2026 01:18
-05851ae4-8a92-45dd-87a6-d22e406b2345,distinctly.quest,available,1.8,21.98,high,low,10,namecheap,,,14/09/2026 13:19
-1502b59a-1aeb-4a80-b185-30ad5a55a03a,agony.quest,available,1.8,21.98,high,low,5,namecheap,,,11/09/2026 01:10
+05851ae4-8a92-45dd-87a6-d22e406b2345,distinctly.quest,available,1.8,21.98,medium,low,10,namecheap,,,14/09/2026 13:19
+1502b59a-1aeb-4a80-b185-30ad5a55a03a,agony.quest,available,1.8,21.98,medium,low,5,namecheap,,,11/09/2026 01:10
 46667fc7-b355-4fa7-bcfd-a24aaeecc440,welsh.quest,available,1.8,19.98,high,low,5,namecheap,,,11/08/2026 15:44
 bf52cc27-36b3-4730-9420-d5f6364646da,monogamous.quest,available,1.8,19.98,high,low,10,namecheap,,,25/08/2026 05:11
 0375c602-dd06-450a-8c29-c28613e14802,acorn.quest,available,1.8,21.98,high,low,5,namecheap,,,17/09/2026 02:18
@@ -808,8 +819,8 @@ a38c24a3-e953-4b49-906c-de386577684c,fauna.quest,available,1.8,19.98,high,low,5,
 22f38eac-6137-4691-8f73-4dc2a6403e60,reciprocal.quest,available,1.8,21.98,high,low,10,namecheap,,,09/09/2026 11:29
 711bb74d-8d73-41a3-a744-fbc42aa76ebf,escort.quest,premium,2660,2660,high,low,6,namesilo,,,24/09/2026 06:34
 02ab127b-5b93-4a27-823d-11f4eafa23a7,terbium.quest,available,1.99,17.29,medium,low,7,namesilo,,,20/09/2026 23:28
-0258b709-0c59-4725-81df-f5a9729cd387,beano.quest,available,1.8,21.98,high,low,5,namecheap,,,22/09/2026 20:40
-2e0bae91-256f-4f30-8ba1-a0133f2f8715,xxiv.quest,available,1.8,19.98,high,low,4,namecheap,,,
+0258b709-0c59-4725-81df-f5a9729cd387,beano.quest,available,1.8,21.98,medium,low,5,namecheap,,,22/09/2026 20:40
+2e0bae91-256f-4f30-8ba1-a0133f2f8715,xxiv.quest,available,1.8,19.98,medium,low,4,namecheap,,,
 3fb099c3-6ef3-4692-b8e4-11bd81a805a4,auxin.quest,available,1.99,17.29,medium,low,5,namesilo,,,21/09/2026 08:33
 5b659c4e-57d4-4297-88d1-1561dce571a0,anura.quest,available,1.8,21.98,medium,low,5,namecheap,,,19/09/2026 15:53
 fc01ddd2-a19f-4a6c-b25c-bda5e11fe683,phantasm.quest,available,1.8,21.98,high,low,8,namecheap,,,08/09/2026 18:36
@@ -827,10 +838,10 @@ b17ac6f3-0c3b-4537-8abe-2da3b3601472,detailing.quest,available,1.99,15.75,high,l
 31c2a920-03d0-4626-9c75-16b71a4bb732,bond.quest,premium,2500,,high,low,4,name.com,,,
 6bb8420f-65d7-4e0d-b862-8d295f240b78,equitable.quest,available,1.8,19.98,high,low,9,namecheap,,,17/08/2026 11:54
 4c89ac28-e3df-4623-b2e7-4fc28260b032,swot.quest,available,1.8,19.98,high,low,4,namecheap,,,10/08/2026 18:21
-bfc814e2-729a-4e19-9069-272d02ff8f40,turns.quest,available,1.99,17.29,high,low,5,namesilo,,,18/09/2026 14:48
+bfc814e2-729a-4e19-9069-272d02ff8f40,turns.quest,available,1.99,17.29,medium,low,5,namesilo,,,18/09/2026 14:48
 f9ef4355-52d2-408e-8ad7-1d18c1eda81d,ammonite.quest,available,1.99,17.29,high,low,8,namesilo,,,18/09/2026 22:08
 6e608a23-1e3e-401f-9516-0393b7e4dbe8,foliated.quest,available,1.8,21.98,medium,low,8,namecheap,,,08/09/2026 09:20
-eeef0069-d8bb-4f0a-9942-eed7f7183aee,blockade.quest,available,1.99,15.75,high,low,8,namesilo,,,
+eeef0069-d8bb-4f0a-9942-eed7f7183aee,blockade.quest,available,1.99,15.75,medium,low,8,namesilo,,,
 5911beda-7788-463d-adfe-7ef4a2459b20,coexisting.quest,available,1.8,19.98,medium,low,10,namecheap,,,12/08/2026 15:32
 f2628fcc-2031-458a-98c5-19048ca64aca,nobility.quest,available,1.99,17.29,high,low,8,namesilo,,,20/09/2026 05:50
 ac7d0358-0754-4a56-87f8-e4d5086a3e9f,argentine.quest,available,,,high,high,9,,,,
@@ -844,7 +855,7 @@ fff14ad4-0114-466c-8844-829c7735ca81,arctiid.quest,available,1.99,17.29,medium,l
 e5cb5cf3-a3a6-4a9c-98e0-bca90d162653,aging.quest,available,1.99,17.29,high,low,5,namesilo,,,21/09/2026 22:40
 704b8258-a3a8-49d2-8dd6-17308d6c7aac,anodal.quest,available,1.8,19.98,medium,low,6,namecheap,,,
 cf28e39a-3dbe-41b2-9b96-884deb873fe3,limpid.quest,available,1.8,19.98,high,low,6,namecheap,,,13/08/2026 09:41
-3ea75f3f-c873-4016-a002-54b47de3eba7,speculation.quest,available,1.99,,high,low,11,name.com,,,
+3ea75f3f-c873-4016-a002-54b47de3eba7,speculation.quest,available,1.99,,medium,low,11,name.com,,,
 3afb40d3-6780-4565-befc-f7cfb4586158,downstream.quest,available,1.8,19.98,high,low,10,namecheap,,,14/08/2026 17:59
 a1eed7c5-d5c1-4528-a94d-308cbc4e9894,narcotic.quest,available,1.8,21.98,medium,low,8,namecheap,,,03/09/2026 13:12
 4d484ddf-c5d1-43ca-abcb-7b7f496c447e,analyst.quest,available,1.99,15.75,high,low,7,namesilo,,,
@@ -864,14 +875,14 @@ fbb1d24b-fdd7-4cfa-8358-6051aead9c88,themself.quest,available,1.99,,medium,low,8
 d44cac65-be78-4409-be89-d03d6ef6c0bc,jelled.quest,available,1.8,19.98,medium,low,6,namecheap,,,12/08/2026 21:27
 864047d1-ea6c-485e-a303-a10973c2e943,mandatory.quest,available,1.8,21.98,high,low,9,namecheap,,,23/09/2026 18:22
 60e7d5b0-246a-4783-bca7-67a6391aaa23,underdone.quest,available,1.8,21.98,medium,low,9,namecheap,,,12/09/2026 07:24
-8e690e3b-467d-4b1f-807a-5652e29df54d,mechanized.quest,available,1.99,17.29,high,low,10,namesilo,,,19/09/2026 16:26
+8e690e3b-467d-4b1f-807a-5652e29df54d,mechanized.quest,available,1.99,17.29,medium,low,10,namesilo,,,19/09/2026 16:26
 cbc8634a-d912-45b1-a334-a8c7db74af43,inwardly.quest,available,1.8,21.98,medium,low,8,namecheap,,,15/09/2026 09:18
 f6a22c37-9166-40da-a337-b4a4e44796d1,soap.quest,premium,2500,,high,low,4,name.com,,,
 e58fe134-1ef6-4010-8a58-af1db085c755,theorize.quest,available,1.99,17.29,high,low,8,namesilo,,,24/09/2026 17:19
 d3379782-4d39-4348-8f8b-0f6f309a4c40,fresher.quest,available,1.8,19.98,high,low,7,namecheap,,,18/08/2026 15:22
 be6172d2-0e79-4dc1-8b45-c72c899f6ba0,innate.quest,available,1.8,19.98,high,low,6,namecheap,,,12/08/2026 21:44
 68fb82b3-32f6-45a8-9544-a05e20376512,chalky.quest,available,1.8,19.98,medium,low,6,namecheap,,,11/08/2026 13:39
-29854d24-9664-4b6c-9f7c-bf14b66f1db9,isomorphic.quest,available,1.8,19.98,high,low,10,namecheap,,,22/08/2026 11:12
+29854d24-9664-4b6c-9f7c-bf14b66f1db9,isomorphic.quest,available,1.8,19.98,medium,low,10,namecheap,,,22/08/2026 11:12
 23b8a2b0-5972-4d71-a378-d8e1ddc33151,harmonised.quest,available,1.8,19.98,high,low,10,namecheap,,,12/08/2026 22:52
 63dcce24-1a1d-401b-abd6-1838195f3f1d,stupidly.quest,available,1.8,21.98,medium,low,8,namecheap,,,14/09/2026 13:43
 c7cca8a6-2f45-4f66-ab0b-19fd74fb720f,leaders.quest,resell,,,high,low,7,"Spaceship, Inc.",13/04/2026 22:03,13/04/2027 23:59,26/09/2026 07:10
@@ -882,12 +893,12 @@ f2e0c6ca-f929-4a98-a794-d1e9eeb9c548,haptic.quest,available,1.8,19.98,medium,low
 a987ea0c-0a9c-469a-b288-5ae598f01b31,veterans.quest,available,1.99,17.29,high,low,8,namesilo,,,18/09/2026 11:06
 46ad4390-7165-478c-9438-76603d78c363,captivated.quest,available,1.8,19.98,medium,low,10,namecheap,,,09/08/2026 09:52
 6316edaa-bf78-4c1c-a500-ee43e0938d9a,cloudy.quest,available,1.8,19.98,high,low,6,namecheap,,,12/08/2026 12:41
-100631c7-445d-4404-ae24-3cbb6b15236c,tolu.quest,available,1.99,20.99,high,low,4,name.com,,,22/09/2026 00:08
+100631c7-445d-4404-ae24-3cbb6b15236c,tolu.quest,available,1.99,20.99,medium,low,4,name.com,,,22/09/2026 00:08
 df4f9af7-1fee-4443-9b10-a7373685c0ca,soph.quest,available,1.8,21.98,medium,low,4,namecheap,,,10/09/2026 14:20
-0848a69a-847d-4363-8962-b53736bf8c8d,commutable.quest,available,1.8,19.98,high,low,10,namecheap,,,12/08/2026 19:17
+0848a69a-847d-4363-8962-b53736bf8c8d,commutable.quest,available,1.8,19.98,medium,low,10,namecheap,,,12/08/2026 19:17
 16fc2021-3b37-45ca-bbb7-a216aa3439fd,decay.quest,available,1.99,,high,low,5,name.com,,,
 9f495b7a-cd73-4fbe-b964-7ce07840d512,clause.quest,available,1.99,17.29,high,low,6,namesilo,,,24/09/2026 15:20
-f9b2f09d-f9e0-479e-a056-2d9d4f1c8d27,vomiting.quest,available,1.99,,high,low,8,name.com,,,
+f9b2f09d-f9e0-479e-a056-2d9d4f1c8d27,vomiting.quest,available,1.99,,medium,low,8,name.com,,,
 ad370a84-9e35-41ff-a543-09af41625746,accede.quest,available,1.99,17.29,high,low,6,namesilo,,,20/09/2026 16:11
 bde44d05-419b-49f6-b2fe-127e1b8afecf,ecumenical.quest,available,1.8,19.98,medium,low,10,namecheap,,,15/08/2026 04:38
 56243032-e6d6-49f4-bd34-2a7c62ab0e5c,combustion.quest,available,1.8,19.98,high,low,10,namecheap,,,11/08/2026 10:57
@@ -908,7 +919,7 @@ d0d82516-9289-4a41-9ca2-5418b1d9de6f,acridid.quest,available,1.8,21.98,medium,lo
 9da1da1b-55da-4664-addb-be9fe920ea07,sports.quest,premium,845,15.73,high,medium,6,namecheap,,,
 a0d38350-2009-4a26-9d84-95c807c3f275,quantal.quest,available,1.8,21.98,medium,low,7,namecheap,,,09/09/2026 07:28
 600c5f39-147a-4540-8f37-3ecbf77e3c90,tinkly.quest,available,1.8,21.98,medium,low,6,namecheap,,,11/09/2026 16:15
-f6cf45a0-3c64-4e13-809c-927577445217,seldom.quest,available,1.8,21.98,high,low,6,namecheap,,,15/09/2026 22:34
+f6cf45a0-3c64-4e13-809c-927577445217,seldom.quest,available,1.8,21.98,medium,low,6,namecheap,,,15/09/2026 22:34
 ea5e1115-6eeb-44d3-8fad-a430983897c2,volunteering.quest,available,1.99,17.29,high,low,12,namesilo,,,17/09/2026 09:33
 08c4a4f3-99d9-4b2c-b169-cb4660652a6e,forsaking.quest,available,1.99,17.29,medium,low,9,namesilo,,,16/09/2026 13:59
 0563d3ce-f367-4147-a397-48615d43e254,accentual.quest,available,1.8,19.98,medium,low,9,namecheap,,,
@@ -921,7 +932,7 @@ bc69510d-c0fb-44ca-85a2-026bea94345e,tremulous.quest,available,1.8,21.98,medium,
 f63c89ce-3344-4528-a23f-8a7ad4426183,punctuate.quest,available,1.8,21.98,high,low,9,namecheap,,,16/09/2026 21:54
 faaa8344-b73c-4063-9408-623e945d09e2,hitch.quest,available,1.8,19.98,high,low,5,namecheap,,,20/08/2026 22:55
 a7a9be2f-db2a-43f9-a7ae-3750a07883e7,flaring.quest,available,1.8,19.98,high,low,7,namecheap,,,
-74262ebc-9bc2-458d-9665-0629ba924a26,boer.quest,available,1.8,19.98,high,low,4,namecheap,,,
+74262ebc-9bc2-458d-9665-0629ba924a26,boer.quest,available,1.8,19.98,medium,low,4,namecheap,,,
 465e9ce6-749c-4151-8a8a-7b820d08b7a9,anseres.quest,available,1.8,21.98,medium,low,7,namecheap,,,19/09/2026 12:08
 6698baae-9158-4143-9741-c77345aebb87,concentrated.quest,available,1.99,15.75,high,low,12,namesilo,,,
 b2d39133-173b-4e0f-8839-ca73a463b789,shattering.quest,available,1.8,21.98,high,medium,10,namecheap,,,10/09/2026 06:06
@@ -947,7 +958,7 @@ b11c6bdb-02c2-45a2-9db9-eaa1ff344c37,accused.quest,available,1.99,15.75,high,low
 e2681510-aec5-478d-8a1d-2d62be534c78,plenitude.quest,available,1.8,21.98,high,high,9,namecheap,,,15/09/2026 20:33
 959453ed-f65b-4cec-8bd7-be08f01498db,asthenia.quest,available,1.8,21.98,medium,low,8,namecheap,,,20/09/2026 17:17
 722d6c8b-382d-45df-89fc-ab136d9cd027,xviii.quest,available,1.99,17.29,medium,low,5,namesilo,,,21/09/2026 12:00
-91471c17-3826-4c2b-9a87-aa8857a6c28b,anklets.quest,available,1.8,21.98,high,low,7,namecheap,,,19/09/2026 09:46
+91471c17-3826-4c2b-9a87-aa8857a6c28b,anklets.quest,available,1.8,21.98,medium,low,7,namecheap,,,19/09/2026 09:46
 8963c9de-0c11-4117-aa35-33bb62bde4ce,snap.quest,premium,2660,2660,high,medium,4,namesilo,,,24/09/2026 01:20
 7c3d3f46-23f7-4876-8222-68a74639bf86,foiling.quest,available,1.8,21.98,medium,low,7,namecheap,,,11/09/2026 15:16
 23a4ea94-caac-4ae5-ac58-2eccb8563aab,arsenal.quest,premium,2660,2660,high,low,7,namesilo,,,20/09/2026 09:36
@@ -959,21 +970,22 @@ a4ee69e6-62c4-4b26-9712-0a680e7c368c,beading.quest,available,1.8,21.98,high,low,
 f673c15b-1aa2-40c2-9e9f-9f22878c9593,pumping.quest,available,1.8,21.98,high,low,7,namecheap,,,17/09/2026 18:09
 99c2965c-312f-4e2e-87a5-60a18aec658f,autogenic.quest,available,1.8,19.98,medium,low,9,namecheap,,,07/08/2026 20:21
 0f450f98-e8e3-46c7-8eb9-0c59de54d2be,purplish.quest,available,1.8,21.98,high,medium,8,namecheap,,,09/09/2026 06:22
-f01aa13a-fa49-4513-ac46-251e3fcc8275,vulgar.quest,available,1.8,19.98,high,low,6,namecheap,,,14/08/2026 22:44
+f01aa13a-fa49-4513-ac46-251e3fcc8275,vulgar.quest,available,1.8,19.98,medium,low,6,namecheap,,,14/08/2026 22:44
 a01f576a-856c-4a8c-bc07-f804b07e4491,kerensky.quest,available,1.99,17.29,high,low,8,namesilo,,,18/09/2026 05:02
+52fe364c-eab5-49a2-9eb4-0b32c7a231d4,shoots.quest,available,1.99,17.29,high,low,6,namesilo,,,28/09/2026 03:32
 b5f22405-0beb-4721-9bcc-bf15af4b4cda,zaire.quest,available,1.99,17.29,high,medium,5,namesilo,,,23/09/2026 04:58
 26cf6fae-0676-4aa7-8c1c-22a39029007c,latish.quest,available,1.8,19.98,medium,low,6,namecheap,,,22/08/2026 20:43
-611d1299-1653-4fc8-b075-de8d71e66982,surprised.quest,available,1.99,,high,low,9,name.com,,,
+611d1299-1653-4fc8-b075-de8d71e66982,surprised.quest,available,0.99,25.99,high,low,9,godaddy,,,28/09/2026 02:04
 b2dacdd6-c6be-4cd8-8392-540c37bf4280,cute.quest,resell,,,high,low,4,"Spaceship, Inc.",09/03/2026 19:21,09/03/2027 23:59,26/09/2026 05:23
 710bff37-7c30-45f1-9340-e55519d4f8a5,osborne.quest,available,1.99,17.29,high,medium,7,namesilo,,,25/09/2026 08:01
 58b0faf1-d960-4a0b-a03c-e78b664ee7b6,interpersonal.quest,available,1.99,,high,low,13,name.com,,,
 e9028020-bc42-4bf3-a27d-edc08f0aae7a,screeching.quest,available,1.8,21.98,medium,low,10,namecheap,,,09/09/2026 23:59
 74804a5e-cf32-4d3a-bede-b31d97efc1fd,implanted.quest,available,1.8,19.98,medium,low,9,namecheap,,,13/08/2026 22:47
-b51dbab8-5fd7-4919-b486-f24df068bf52,caldwell.quest,available,1.8,21.98,high,low,8,namecheap,,,25/09/2026 03:55
+b51dbab8-5fd7-4919-b486-f24df068bf52,caldwell.quest,available,1.8,21.98,medium,low,8,namecheap,,,25/09/2026 03:55
 6efcd13e-0f3a-4641-b263-409e32310c3d,welfare.quest,available,1.8,21.98,high,low,7,namecheap,,,08/09/2026 03:13
 6011ba57-d857-4515-8421-f84a1ac91d73,jesting.quest,available,1.8,19.98,high,low,7,namecheap,,,22/08/2026 12:52
 b7e34b44-fb8f-4682-969c-f0781a0cb2b4,collected.quest,available,1.8,19.98,high,low,9,namecheap,,,12/08/2026 17:00
-16a6f85e-0063-427f-97b5-2a37d40037ad,ripe.quest,available,1.99,,high,low,4,name.com,,,
+16a6f85e-0063-427f-97b5-2a37d40037ad,ripe.quest,available,1.99,17.29,high,low,4,namesilo,,,27/09/2026 15:25
 d16a582a-8398-4b56-87e1-1521fd2b6cfb,bronte.quest,available,1.8,21.98,medium,low,6,namecheap,,,19/09/2026 10:16
 32f974b0-d755-460e-958d-df3eb35f52d5,staggering.quest,available,1.8,21.98,medium,low,10,namecheap,,,10/09/2026 18:08
 88f8bf0d-51ba-4273-9ed8-53fecfe1956c,protocols.quest,available,1.99,17.29,medium,low,9,namesilo,,,19/09/2026 04:47
@@ -981,21 +993,9 @@ a1a403f7-4d9e-452e-962e-0bea262fbc0a,speedup.quest,available,1.99,,high,low,8,na
 0ba0563d-34b5-4005-ba7d-65855270fed6,anergy.quest,available,1.99,17.29,medium,low,6,namesilo,,,19/09/2026 05:29
 7e38f2d3-0718-473c-b4b7-f0bc69cb5ace,catkin.quest,available,1.8,21.98,medium,low,6,namecheap,,,18/09/2026 18:54
 a3ce58fc-eb69-4e74-b806-f0323dd64cce,constant.quest,available,1.8,19.98,high,low,8,namecheap,,,11/08/2026 23:02
+1f7458e8-3359-4241-b7f5-a8744b9b5da0,drowned.quest,available,1.99,17.29,medium,low,7,namesilo,,,27/09/2026 22:47
 e18181b0-2501-4070-a3d3-3e45d57b6197,mask.quest,premium,812.5,,high,low,4,name.com,,,
 8dbef264-3f62-4a1e-b97a-ea6389a9c62e,beamish.quest,available,1.8,19.98,medium,low,7,namecheap,,,09/08/2026 04:08
-8700eafc-9776-4c4d-83bc-82871c51ddec,palladio.quest,available,1.99,17.29,high,low,8,namesilo,,,19/09/2026 04:26
+8700eafc-9776-4c4d-83bc-82871c51ddec,palladio.quest,available,1.99,17.29,medium,low,8,namesilo,,,19/09/2026 04:26
 690aa103-3821-402b-b492-98459a99cbd1,higher.quest,available,1.99,,high,low,6,name.com,,,
 bd43a47b-8fe7-49a2-acd1-ccaa9331e232,apodeme.quest,available,1.8,21.98,medium,low,7,namecheap,,,19/09/2026 18:17
-86e345d2-34ae-4b83-9a7b-b92f3f464a4f,heralded.quest,available,1.8,19.98,medium,low,8,namecheap,,,21/08/2026 06:51
-a7f39407-30f0-4703-b61c-455f67c651b5,perplexing.quest,available,1.8,21.98,medium,low,10,namecheap,,,08/09/2026 17:58
-3b4117a6-b87b-4745-8415-775b5365794a,epidural.quest,available,1.8,19.98,high,low,8,namecheap,,,17/08/2026 10:52
-9fe0e16a-9dd3-4bca-9954-e2444fd2fed2,wobbling.quest,available,1.8,21.98,medium,low,8,namecheap,,,13/09/2026 12:52
-88f62359-67b6-4aaf-b2d1-4a193fc6b5f9,obliterate.quest,available,1.8,19.98,medium,low,10,namecheap,,,10/08/2026 15:34
-7fb9526a-f7b2-4ec0-9253-dd852ed7c85c,kenyan.quest,available,1.8,19.98,high,low,6,namecheap,,,22/08/2026 15:34
-fa7b9c56-059e-4f8a-9a62-88b057454244,budgetary.quest,available,1.8,19.98,medium,low,9,namecheap,,,11/08/2026 07:46
-4b071030-9dea-462c-8324-817cdebf781c,provoking.quest,available,1.8,19.98,high,low,9,namecheap,,,
-944e43dd-417c-4cfc-abaf-4526e2da5e6e,surrogate.quest,available,1.99,17.29,high,low,9,namesilo,,,22/09/2026 02:27
-71ac771e-9d84-44c3-9df4-6234216f100c,outlandish.quest,available,1.8,19.98,medium,low,10,namecheap,,,10/08/2026 10:37
-43a0c190-b075-424b-8e84-0619132ef8e2,baronet.quest,available,1.99,17.29,high,low,7,namesilo,,,22/09/2026 07:28
-378534d0-dd53-4292-972a-8895ced5f3a0,unless.quest,available,1.8,21.98,medium,low,6,namecheap,,,26/09/2026 03:05
-d8976f41-8896-4631-b93c-2e6326200319,hominid.quest,available,1.8,19.98,medium,low,7,namecheap,,,21/08/2026 12:39
