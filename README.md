@@ -1,10 +1,10 @@
-# Available .QUEST One-Word Domains (23,426)
+# Available .QUEST One-Word Domains (25,295)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C426%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C295%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .quest one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,426 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **25,295 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,426 domains · **Median ask:** $101.97 · **High-demand under $2,500:** 36
+**Public extract:** 1,000 rows · **Live catalog:** 25,295 domains · **Median ask:** $97.53 · **High-demand under $2,500:** 47
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/quest`
 **Best for:** founders, investors, studios
 
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| auc.quest  | available | $1.80     | $21.98        | high           | low    | 3      | namecheap        |
+| aes.quest  | available | $1.99     | $17.29        | high           | low    | 3      | namesilo         |
 | nose.quest | resell    | $1.99     | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| art.quest  | premium   | $2,660    | $2,660        | high           | medium | 3      | namesilo         |
-| bja.quest  | available | $1.99     | $17.29        | medium         | low    | 3      | namesilo         |
+| art.quest  | premium   | $2,070.20 | $2,070.20     | high           | medium | 3      | spaceship        |
+| auc.quest  | available | $1.80     | $21.98        | high           | low    | 3      | namecheap        |
 | lol.quest  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
 | ing.quest  | premium   | $2,500    | —             | high           | low    | 3      | name.com         |
-| btw.quest  | available | $1.99     | $15.75        | high           | low    | 3      | namesilo         |
+| bja.quest  | available | $1.99     | $17.29        | medium         | low    | 3      | namesilo         |
 | dear.quest | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
 | bond.quest | premium   | $2,600    | $2,600        | high           | medium | 4      | namecheap        |
-| chr.quest  | available | $1.24     | $13.97        | medium         | low    | 3      | spaceship        |
+| btw.quest  | available | $1.99     | $15.75        | high           | low    | 3      | namesilo         |
 | from.quest | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
-| coin.quest | premium   | $2,500    | $2,500        | high           | medium | 4      | name.com         |
-| hag.quest  | available | $1.99     | $17.29        | high           | low    | 3      | namesilo         |
-| gene.quest | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.  |
 | ergo.quest | premium   | $2,600    | $2,600        | high           | low    | 4      | namecheap        |
-| msa.quest  | available | $1.24     | $13.97        | high           | low    | 3      | spaceship        |
+| chr.quest  | available | $1.24     | $13.97        | high           | low    | 3      | spaceship        |
+| gene.quest | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.  |
+| gang.quest | premium   | $672.95   | $672.95       | high           | low    | 4      | spaceship        |
+| dhs.quest  | available | $1.24     | $13.97        | high           | low    | 3      | spaceship        |
 | hard.quest | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| gang.quest | premium   | $812.50   | —             | high           | low    | 4      | name.com         |
-| nhl.quest  | available | $1.99     | $17.29        | high           | medium | 3      | namesilo         |
+| hoar.quest | premium   | $2,500    | $2,500        | medium         | low    | 4      | name.com         |
+| msa.quest  | available | $1.24     | $13.97        | high           | low    | 3      | spaceship        |
 | odds.quest | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,426 live domains                        |
+| 1,000-row public sample | 25,295 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 36 high-demand names under $2,500          |
+| Basic exported fields   | 47 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .QUEST One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .QUEST One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
